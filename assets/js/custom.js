@@ -79,7 +79,7 @@
             lineWidth: 2,
             rotate: 0,
             size: _this.height(),
-            colorProgress: '#d4a259',
+            colorProgress: '#1e73be',
             colorBackground: '#eee'
           },
           perc = calcScrollPct();
