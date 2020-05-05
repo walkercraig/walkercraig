@@ -59,4 +59,4 @@ sass:
   sass_dir: _sass
   style: compressed
 
-theme: royce
+remote_theme: royce
