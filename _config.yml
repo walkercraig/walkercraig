@@ -1,12 +1,12 @@
 # Site settings
-name: 'Royce'
-description: 'Web Developer'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+name: 'Craig Walker'
+description: 
+meta_description: 
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'beardsketchcrop.png'
-  greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+  greetings: "Hello and Welcome. This site is a place for clients, friends, and new acquaintances to learn more. Like all of life, it is a never-ending work in progress. If something is online or offline and it is from Craig, you will see it here."
 favicon: 'assets/images/favicon.ico'
 baseurl: /roycetest
 production_url: https://royce.netlify.com/
@@ -59,4 +59,4 @@ sass:
   sass_dir: _sass
   style: compressed
 
-theme: jekyll-theme-royce
+theme: royce
