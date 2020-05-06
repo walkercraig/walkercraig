@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'cwlogodark.png'
-  greetings: "Hello and Welcome. This site is a place for clients, friends, and new acquaintances to learn more. Like all of life, it is a never-ending work in progress. If something is online or offline and it is from Craig, you will see it here.
+  greetings: "Hello and Welcome."
 favicon: 'assets/images/cwsiteicon.png'
 baseurl: /roycetest
 production_url: https://royce.netlify.com/
