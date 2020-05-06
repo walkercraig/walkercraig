@@ -104,14 +104,6 @@
   vertical-align: bottom;
 }
 
-.post-content {
-  color: $gray;
-  font-weight: 400;
-  font-famliy: "Sorts Mill Goudy", serif;
-  float: left;
-  position: relative;
-}
-
 @-moz-document url-prefix() {
   .post-full .post-content > p:first-child:first-letter {
     padding-top: 0.08em;
