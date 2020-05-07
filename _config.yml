@@ -9,7 +9,7 @@ author:
   greetings: "Hello and Welcome."
 favicon: 'assets/images/cwsiteicon.png'
 baseurl: /roycetest
-production_url: https://royce.netlify.com/
+production_url: https://walkercraig.github.io/roycetest/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
@@ -30,7 +30,7 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /roycetest/about/
+    url: /about/
   - text: Letters
     url: /letters/
   . text: Work
