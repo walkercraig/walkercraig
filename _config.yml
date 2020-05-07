@@ -32,17 +32,17 @@ navigation:
   - text: About
     url: /roycetest/about
   - text: Letters
-    url: /letters
+    url: /roycetest/letters
   - text: Work
-    url: /work
+    url: /roycetest/work
   - text: Organizations
-    url: /organizations
+    url: /roycetest/organizations
   - text: Creative
-    url: /creative
+    url: /roycetest/creative
   - text: Contact
-    url: /contact
+    url: /roycetest/contact
   - text: Search
-    url: /search
+    url: /roycetest/search
 
 # Required Plugins
 plugins_dir:
