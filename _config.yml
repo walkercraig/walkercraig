@@ -28,7 +28,7 @@ instagram: 'wlkrcrg'
 # Navigation
 navigation:
   - text: Home
-    url: /
+    url: /roycetest
   - text: About
     url: /roycetest/about
   - text: Letters
