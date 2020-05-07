@@ -30,19 +30,19 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /roycetest/about
+    url: /roycetest/about/
   - text: Letters
-    url: /letters
+    url: /letters/
   . text: Work
-    url: /work
+    url: /work/
   - text: Organizations
-    url: /organizations
+    url: /organizations/
   - text: Creative
-    url: /creative
+    url: /creative/
   - text: Contact
-    url: /contact
+    url: /contact/
   - text: Search
-    url: /search
+    url: /search/
 
 # Required Plugins
 plugins_dir:
