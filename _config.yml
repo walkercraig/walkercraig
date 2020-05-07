@@ -37,8 +37,6 @@ navigation:
     url: /roycetest/work
   - text: Organizations
     url: /roycetest/organizations
-  - text: Creative
-    url: /roycetest/creative
   - text: Contact
     url: /roycetest/contact
   - text: Search
