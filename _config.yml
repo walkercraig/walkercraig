@@ -31,8 +31,14 @@ navigation:
     url: /
   - text: About
     url: /roycetest/about
-  - text: Style Guide
-    url: /style-guide
+  - text: Letters
+    url: /letters
+  . text: Work
+    url: /work
+  - text: Organizations
+    url: /organizations
+  - text: Creative
+    url: /creative
   - text: Contact
     url: /contact
   - text: Search
