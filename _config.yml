@@ -33,7 +33,7 @@ navigation:
     url: /about/
   - text: Letters
     url: /letters/
-  . text: Work
+  - text: Work
     url: /work/
   - text: Organizations
     url: /organizations/
