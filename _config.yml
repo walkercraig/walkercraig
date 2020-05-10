@@ -64,3 +64,5 @@ sass:
   style: compressed
 
 remote_theme: royce
+
+theme: jekyll-theme-cayman
