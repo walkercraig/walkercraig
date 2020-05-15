@@ -29,7 +29,7 @@ At first, when a user logged in to edit a mailbox, they were unable to delete an
 This initial work on proto-email was primarily done at the Massachusetts Institute of Technology and made reality based on a modified version of the IBM 7090.
 
 ---
-{% include image-caption.html imageurl="/roycetest/assets/images/posts/2018/ibm7090nasa.jpg" title="NASA Ames Research Center" caption="NASA Ames Research Center, IBM 7090, in 1961." %}
+{% include image-caption.html imageurl="/assets/images/posts/2018/ibm7090nasa.jpg" title="NASA Ames Research Center" caption="NASA Ames Research Center, IBM 7090, in 1961." %}
 ---
 
 The greater challenge came in getting all of the separate central disks to “talk” to each other. While the idea had been around for quite a while, no computer network existed until the ARPAnet, a communications breakthrough brought forth from funding through the United States Department of Defense’s Advanced Research Projects Agency (DARPA). In 1966, a man named Bob Taylor convinced then DARPA Director, Charles M. Herzfeld, to transfer a million dollars from a ballistic missile defense project to fund his network project. By 1969, the ARPAnet became the first true version of the technology we now know as the Internet.
@@ -37,7 +37,7 @@ The greater challenge came in getting all of the separate central disks to “ta
 The first fully transmitted message on the ARPAnet, sent on October 29, 1969, from a UCLA student programmer to Stanford, was “login”. But that was the second attempt. In a perhaps prophetic and poetic moment that would make any man pause, look up, and wonder, on the first attempt an hour earlier only the first two letters, the “l” and the “o”, made it before the system crashed. So the first message transmitted through this life-altering technology was accidentally the word “lo”, a now archaic imperative meaning “Look!” “See!” “Behold!” and traditionally used to call attention or to express wonder or surprise. Try not to shiver.
 
 ---
-{% include image-caption.html imageurl="/roycetest/assets/images/posts/2018/luke-2-9-10.png" title="Luke 2:9-10" %}
+{% include image-caption.html imageurl="/assets/images/posts/2018/luke-2-9-10.png" title="Luke 2:9-10" %}
 ---
 
 **Let’s fast forward…**
@@ -51,7 +51,7 @@ By 1973, the ARPAnet included 40 university and government hosts, and email acco
 The previous paragraphs are a long-winded way of saying this is kinda sorta what I’m going to try to do, albeit a few decades late. Not necessarily build a career, per se, but maybe something, someday, will come of it? In the immortal words of Stephen Gibson and Cecil Glen, the Atlanta duo once known as Tag Team, “I’m takin’ it back to the old school, ’cause I’m an old fool, who’s so cool…”
 
 ---
-{% include image-caption.html imageurl="/roycetest/assets/images/posts/2018/whoomp.jpg" title="Tag Team - Whoomp, There It Is" caption="Tag Team. Back Again." %}
+{% include image-caption.html imageurl="/assets/images/posts/2018/whoomp.jpg" title="Tag Team - Whoomp, There It Is" caption="Tag Team. Back Again." %}
 ---
 
 You’re welcome to call this what you wish. A newsletter? A blog? A shameful display of narcissism? I don’t mind. However you ultimately choose to describe it, I see it as a general space to muse and offer an individual perspective on current events and issues I want to talk about. Be it in arts and culture, business, lifestyle, politics, science and technology, sports, and/or anything and everything in between.
@@ -61,7 +61,7 @@ You’re welcome to call this what you wish. A newsletter? A blog? A shameful di
 I understand even the idea of starting something like this, at the minimum, reeks of pretension and, at worst, will serve as “Exhibit A” in my eternal judgment. For who am I to suggest that my perspective or insight into an issue is better than any other? I assure you I’m not trying to insinuate a greater awareness or higher understanding. I’m no genius. In fact, I know there are many out there who would likely tell you I’m not particularly smart.
 
 ---
-![Mark Twain, God's Fool](https://walkercraig.github.io/roycetest/assets/images/posts/2018/MarkTwain_GodsFool.jpg#wide)
+![Mark Twain, God's Fool](https://walkercraig.github.io/assets/images/posts/2018/MarkTwain_GodsFool.jpg#wide)
 
 ---
 
