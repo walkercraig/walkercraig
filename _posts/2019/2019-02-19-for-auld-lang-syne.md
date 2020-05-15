@@ -13,7 +13,7 @@ I’ve been thinking about Auld Lang Syne. I’m not sure why it’s been on my 
 Without going into the long history of the impossible not to know song, Auld Lang Syne is a Scots-language poem written in 1788 by the Bard of Ayrshire, the Ploughman Poet, the Soul of Scotland, Robert Burns and set to the melody of a traditional folk song. Parts of the poem and, of course, its sentiment existed long before the young Rabbie “borrowed” and added his own lyrics that he later turned in to James Johnson at the Scots Musical Museum but, for the most part, we have him to thank for the song sung in the present. After it was published, it quickly became a favorite of Scots and customary to sing at Hogmanay (also known as New Year’s Eve) and soon spread to the English, the Welsh, and the Irish, who all subsequently brought the tradition with them as they emigrated around the world.
 
 ---
-{% include image-caption.html imageurl="/roycetest/assets/images/posts/2019/robertburns.jpg" title="Robert Burns" caption="Robert Burns? More like *Sweet* Burns, bro..." %}
+{% include image-caption.html imageurl="/assets/images/posts/2019/robertburns.jpg" title="Robert Burns" caption="Robert Burns? More like *Sweet* Burns, bro..." %}
 ---
 
 Each New Year, after largely forgetting about it for 11.5 months, I’m struck by how much I like the old traditional. Each year, I wonder why it’s not heard more often in American life and why I don’t force it to make more appearances in my personal life (I do remember we sang it in the Boy Scouts at the end of some of the big events). And why not? A song can be sung at any time. There’s no requirement that a cultural cornerstone is to be *only* celebrated at a particular moment even if the particular moment is the cause celebre for the cultural cornerstone.
@@ -25,7 +25,7 @@ I suppose, due to its proximity, Auld Lang Syne has been unfairly maligned. A ca
 But Auld Lang Syne is not a Christmas song. A Christmas standard is far more specific and linked to seasonal or religious prerequisites. That’s why we look down on the neighbor who keeps the Christmas lights on the house a bit too long.
 
 ---
-{% include image-caption.html imageurl="/roycetest/assets/images/posts/2019/garyjulychristmas.jpg" title="Neighbor Gary" caption="For Christ's sake, Gary. It's July..." %}
+{% include image-caption.html imageurl="/assets/images/posts/2019/garyjulychristmas.jpg" title="Neighbor Gary" caption="For Christ's sake, Gary. It's July..." %}
 ---
 
 I also suppose that part of Auld Lang Syne’s magic rests somewhere in its power to induce nostalgia and bring long-hidden memories from the depths to the surface. Sure, given the right context and depending on individual memory, a Christmas song can provide a proper pang of nostalgia but so can any number of melodies or popular music. But I would challenge anyone to name me a singular Christmas song that can evoke the same universal visceral reaction that Auld Lang Syne delivers.
@@ -41,7 +41,7 @@ It’s possible. I doubt it, but it’s possible.
 I do admit, I’m a sucker for nostalgia. I can’t help it. A victim, maybe, although that doesn’t sound like the right word. As I view it, a person could be confused into thinking nostalgia to be a fine drug. It sounds like a prescription you’d see advertised during daytime television.
 
 ---
-{% include image-caption.html imageurl="/roycetest/assets/images/posts/2019/nostalgia.jpg#wide" title="Nostalgia™" caption="Side effects of Nostalgia™ are uncommon but may include headache, nausea, vomiting, dizziness, vaginal ejaculations, dysentery, cardiac arrhythmia, thoughts of suicide, mild heart explosions, varicose veins, darkened stool, darkened soul, death, lycanthropy, trucanthropy, more vomiting, arteriosclerosis, hemorrhoids, diabetes, atheism, religious fanatacism, narcissism, Machiavellianism, paranoia, loss of virginity, mild discomfort, entropy, vampirism, gender impermanence, hysteria, spontaneous dentalhydroplosion, sugar high, even more vomiting, your mom, and mild rash. Ask your doctor if Nostalgia™ is right for you." %}
+{% include image-caption.html imageurl="/assets/images/posts/2019/nostalgia.jpg#wide" title="Nostalgia™" caption="Side effects of Nostalgia™ are uncommon but may include headache, nausea, vomiting, dizziness, vaginal ejaculations, dysentery, cardiac arrhythmia, thoughts of suicide, mild heart explosions, varicose veins, darkened stool, darkened soul, death, lycanthropy, trucanthropy, more vomiting, arteriosclerosis, hemorrhoids, diabetes, atheism, religious fanatacism, narcissism, Machiavellianism, paranoia, loss of virginity, mild discomfort, entropy, vampirism, gender impermanence, hysteria, spontaneous dentalhydroplosion, sugar high, even more vomiting, your mom, and mild rash. Ask your doctor if Nostalgia™ is right for you." %}
 ---
 
 But nostalgia isn’t the drug. The drug is life, lived. Man, alive. A person doesn’t get nostalgic during bliss. That’d be silly. Nostalgia is the withdrawal from the drug. Withdrawal from life experienced.
@@ -67,7 +67,7 @@ There’s a quote I use way too often from Owen Wilson’s character in the comp
 If we focus hard enough, every single moment of our lives could be described that way.
 
 ---
-{% include image-caption.html imageurl="/roycetest/assets/images/posts/2019/wowowenwilson.jpg" title="Owen Wilson WOW!" caption="An excerpt from my next book, tentatively titled, WOW: The Life and Times of the Prophet Owen Wilson." %}
+{% include image-caption.html imageurl="/assets/images/posts/2019/wowowenwilson.jpg" title="Owen Wilson WOW!" caption="An excerpt from my next book, tentatively titled, WOW: The Life and Times of the Prophet Owen Wilson." %}
 ---
 
 I’m not saying anything new, of course. This can generally be summed up and easier understood with, “it’s the little things,” but there’s no fun in that. And, sometimes, we need to wade through the superfluous redundancies and get lost on the way in order to get somewhere proper.
