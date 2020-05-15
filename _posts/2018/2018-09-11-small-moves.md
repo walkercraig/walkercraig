@@ -164,9 +164,6 @@ All I ask is if you do enjoy what I write in these letters that you, quietly, pa
 This newsletter, along with some other things I have planned in the future, is part of a larger strategy I’ve been constructing and ruminating over for quite some time. I hope we’ll both enjoy it and it continues. At least, for a time.
 Last chance.
 
-If I’m being entirely honest, the truth is below and I felt that I should make you aware.
-
----
-![Braveheart - Pick A Fight](https://walkercraig.github.io/roycetest/assets/images/posts/2018/braveheartpickafight.gif#wide)
+If I’m being entirely honest, the truth is, I felt that I should make you aware, I'm goin' to pick a fight.
 
 <br/>
