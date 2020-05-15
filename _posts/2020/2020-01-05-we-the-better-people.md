@@ -23,7 +23,7 @@ Picture it. Humor me for a moment and imagine representatives across from each o
 Don’t worry, I’m not holding my breath either.
 
 ---
-{% include image-caption.html imageurl="/roycetest/assets/images/posts/2020/moderntherapy.jpg" title="Modern Therapy" caption="Pictured: A super deep and totally original metaphor for modern American political discourse." %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/moderntherapy.jpg" title="Modern Therapy" caption="Pictured: A super deep and totally original metaphor for modern American political discourse." %}
 ---
 
 In my last letter, I mentioned Doug Larson, the long-time journalist from Door County, Wisconsin, who said, “Nostalgia is a file that removes the rough edges from the good old days.” And, as previously discussed, that’s true of our own personal histories just as it is with recollections of our past as a collective community. And that nostalgia we all succumb to as individuals and small communities, is just as true in the collective history and collective conscious as it would relate to any large nation’s history. It’s human nature.
@@ -67,7 +67,7 @@ Even the arguable best of us, Abraham Lincoln, was no stranger to partisan ranco
 >My Dear Sir, How, in God’s name, do you let such paragraphs into the Tribune, as the enclosed cut from that paper of yesterday? Does Sheahan write them? How can you have failed to perceive that in that short paragraph you have completely answered all your own well put complaints of Greely and Sister Burlingham? What right have you to interfere in Indiana, more than they in Illinois? And what possible argument can be made why all Republicans shall stand out of Hon. John G. Davis’ way, in his district in Indiana, that can not be made why all Republicans in Illinois shall stand out of Hon. S. A. Douglas’ way? The part in larger type is purely editorial, and your editorial at that, as you do not credit it to any other paper. I confess it astonishes me.<cite>Yours truly, A. Lincoln, June 25, 1858
 
 ---
-{% include image-caption.html imageurl="/roycetest/assets/images/posts/2020/1858_june_27_1a-Lincoln.jpg" title="Abraham Lincoln Letter" caption="What? You didn't believe a man like Lincoln could be so partisan?" %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/1858_june_27_1a-Lincoln.jpg" title="Abraham Lincoln Letter" caption="What? You didn't believe a man like Lincoln could be so partisan?" %}
 ---
 
 As noted by Charles J. Johnson of today’s Chicago Tribune, it was seemingly well-known that Lincoln would burn personal correspondence and often instructed recipients of his letters to do the same. As Johnson further notes, “For all we know, the most vitriol-laced or embarrassing notes might have gone up the flue long more than a century ago.”
@@ -93,7 +93,7 @@ Why are some among us willing to go to such lengths for power and why are those 
 A religious man might tell you the latter and a relativist might tell you the former. An evolutionary neurobiologist may argue that the vileness is not our fault and that it lies in the roots of our brain systems as a deep-seated fear reaction we carry with us from our earliest forms as new vertebrae animals. A fear that causes anxiety and insecurity which leads to a feeling of inadequacy and a drop in self-esteem. A place where we don’t know what to do and we feel as a rat backed into a corner and we lash out in defense of and with the last weapon we all know best, ourselves. An economist may argue it’s a similar rationality of a free-market that causes negotiating parties to do all they can to maximize their utility and once the “good” inner resources have seemingly been used to their full potential the untapped “bad” inner resources must be exploited and it’s yet another nudge from that unseen hand that guides us toward a deal where both are satisfied. I’m not going to pretend I’m qualified to judge one way or another but the more I think about it the more I find myself leaning toward an Occam’s Razor type of ultimate conclusion.
 
 ---
-{% include image-caption.html imageurl="/roycetest/assets/images/posts/2020/chickenegg.jpg#wide" title="Chicken or the Egg?" caption="Now you listen and you listen good. I don’t know who you think you are or who I am but I’ve just about had enough of our shit…" %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/chickenegg.jpg#wide" title="Chicken or the Egg?" caption="Now you listen and you listen good. I don’t know who you think you are or who I am but I’ve just about had enough of our shit…" %}
 ---
 
 **The Unwritten Rule**
@@ -174,7 +174,7 @@ Since I brought up Napoleon, a quick aside that always makes me laugh when I thi
 
 Poetry.
 
-{% include image-caption.html imageurl="/roycetest/assets/images/posts/2020/napoleon.jpg" title="Napoleon" caption="On second thought, maybe we’ll get moving on this after breakfast? Or perhaps the after breakfast nap?" %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/napoleon.jpg" title="Napoleon" caption="On second thought, maybe we’ll get moving on this after breakfast? Or perhaps the after breakfast nap?" %}
 
 ---
 
