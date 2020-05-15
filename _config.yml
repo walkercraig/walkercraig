@@ -1,0 +1,72 @@
+# Site settings
+name: 'Craig Walker'
+description: 
+meta_description: 
+logo:
+# Author image is used in site sidebar and greetings in the home page hero text
+author:
+  image: 'cwlogodark.png'
+  greetings: "Hello and Welcome."
+favicon: '/favicon.ico'
+baseurl: /
+production_url: https://walkercraig.github.io/
+disqus: 
+mailchimp_url: '//walkercraig.us11.list-manage.com/subscribe/post?u=b845f7d1807ad41b6c0437990&amp;id=7bd2f97cd8'
+# Add your GA Tracking Id
+ga_analytics: 
+
+# Contact form settings
+email: mail@walkercraig.com
+contact_page_description: "Feel free to contact Craig with any questions, concerns, or work related inquiries. You may also reach him by sending an email direct to the followinig address: mail at walkercraig dot com."
+thankyou_page_description: "Your message has been successfully sent. We will contact you soon!"
+
+# Social links
+twitter: 'wlkrcrg'
+facebook: 'wlkrcrg'
+instagram: 'wlkrcrg'
+
+# Navigation
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  - text: Letters
+    url: /tags/index.html#Letters
+  - text: Read
+    url: /tags/index.html#Read
+  - text: Watch
+    url: /tags/index.html#Watch
+  - text: Listen
+    url: /tags/index.html#Listen
+  - text: Poems
+    url: /tags/index.html#Poems
+  - text: Organizations
+    url: /organizations
+  - text: Contact
+    url: /contact
+  - text: Search
+    url: /search
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 7
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+remote_theme: royce
