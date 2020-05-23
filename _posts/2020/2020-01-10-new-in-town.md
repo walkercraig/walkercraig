@@ -4,7 +4,7 @@ tag: [ Read ]
 title: "New in Town? The Names May Change but How Things Work Don’t, Bub."
 ---
 
-Craig revisits a famous column that won Mike Royko a Pulitzer Prize, and attempts to update it for our modern times. Sadly, Craig finds that the names may change but the story stays the same.
+Craig revisits a famous column that won Mike Royko a Pulitzer Prize in 1972, and Craig attempts to update it for our modern times. Sadly, Craig finds that the names may change but the story stays the same.
 
 ---
 
