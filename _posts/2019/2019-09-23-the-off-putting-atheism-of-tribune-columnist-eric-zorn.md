@@ -12,6 +12,6 @@ In a bizarre column published last Monday by the Chicago Tribune, 61 going on 16
 
 I mean, it's [current year], okay? Atheists have neural impulses that move an organism to action, prompting automatic reactive behavior that has been adapted through evolution as a survival mechanism to meet a survival need, too, you know?
 
-<h3><a href="http://chicagojournal.com/2019/09/23/the-off-putting-atheism-of-tribune-columnist-eric-zorn/#.XZQyBpSSlnI">Read the rest in the Chicago Journal...</a></h3>
+<h3><a href="https://www.chicagojournal.com/the-off-putting-atheism-of-tribune-columnist-eric-zorn">Read the rest in the Chicago Journal...</a></h3>
 
 <br/>
