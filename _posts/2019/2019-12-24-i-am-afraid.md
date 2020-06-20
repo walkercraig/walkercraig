@@ -46,7 +46,7 @@ I am damned
 
 My fate has been writ
 
-That magic vision I am not destined to see
+The magic Prophets promise I am not destined to see
 
 For here in your eyes shine the stars meant for me
 
