@@ -22,7 +22,7 @@ I am afraid for the beat of your breath as it rises and falls and rises the ches
 
 For I can but wish to hold your heart and help it forever beat best
 
-I am afraid that I am already enchanted, and have no more sins worth being recanted
+I am afraid that I am already enchanted, and have no more Sin worth being recanted
 
 That I have been gifted, the dream has been granted
 
