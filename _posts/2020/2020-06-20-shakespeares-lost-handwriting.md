@@ -19,7 +19,7 @@ If I'm being entirely honest, I was introduced to Professor Bloom largely throug
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom9.jpg" title="Harold Bloom 9" %}
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom8.jpg" title="Harold Bloom 8" %}
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom7.jpg" title="Harold Bloom 7" %}
-{% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom4.jpg" title="Harold Bloom 4" %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom0.jpg" title="Harold Bloom 0" %}
 ---
 
 But this isn't about Harold Bloom. Sorry for the confusing lead. It's just his passing that was part of the discussion that prompted the start of this letter.
