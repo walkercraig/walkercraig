@@ -4,7 +4,7 @@ tag: [ Letters ]
 title: Shakespeare's Lost Handwriting
 ---
 
-In this letter, Craig discusses his theory on why there's so few examples of William Shakespeare's handwriting.
+In this letter, Craig discusses his theory on why there are so few examples of William Shakespeare's handwriting.
 
 ---
 
