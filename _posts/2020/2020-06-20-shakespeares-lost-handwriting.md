@@ -16,13 +16,13 @@ If I'm being entirely honest, I was introduced to Professor Bloom largely throug
 
 ---
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom3.jpg" title="Harold Bloom 3" %}
-
+---
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom9.jpg" title="Harold Bloom 9" %}
-
+---
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom8.jpg" title="Harold Bloom 8" %}
-
+---
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom7.jpg" title="Harold Bloom 7" %}
-
+---
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom4.jpg" title="Harold Bloom 4" %}
 ---
 
