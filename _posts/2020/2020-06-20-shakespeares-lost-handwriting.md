@@ -16,13 +16,9 @@ If I'm being entirely honest, I was introduced to Professor Bloom largely throug
 
 ---
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom3.jpg" title="Harold Bloom 3" %}
----
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom9.jpg" title="Harold Bloom 9" %}
----
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom8.jpg" title="Harold Bloom 8" %}
----
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom7.jpg" title="Harold Bloom 7" %}
----
 {% include image-caption.html imageurl="/assets/images/posts/2020/haroldbloom4.jpg" title="Harold Bloom 4" %}
 ---
 
@@ -57,7 +53,7 @@ I see no realistic argumentative consequence in the denunciation of his educatio
 If you didn't know, there are barely any examples. In fact, prior to the early 20th century, there were only 5 confirmed examples and they were all signatures. Since then, there has been a 6th signature confirmed and, although some dissenters remain, since the mid-20th Century it is now unequivocally believed by many scholars that 3 pages of the handwritten manuscript of the play, Sir Thomas More, are also in William Shakespeare's handwriting. The play is believed to have been mainly written by two men named Anthony Munday and Henry Chettle. Just as it is in Hollywood today, it was relatively common for other playwrights of the Elizabethan and Jacobean era to collaborate, revise, and help edit scripts. There are, of course, other examples suspected to be in Shakespeare's own hand. Some parts of the application for a family coat of arms is one, the body of his last will and testament, written in 3 parts and including the declining hand toward the end, is another.
 
 ---
-{% include image-caption.html imageurl="/assets/images/posts/2020/shakespearessignatures.jpg" title="Shakespeare's Signatures" caption="Behold! The existing signatures of the Bard! One of the leading contenders for greatest writer of all time..." %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/shakespearesignatures.jpg" title="Shakespeare's Signatures" caption="Behold! The existing signatures of the Bard! One of the leading contenders for greatest writer of all time..." %}
 ---
 
 Before I go further, I've heard all the counter-arguments to the lack of handwriting samples and the survival of manuscripts from the Elizabethan Period. I'm aware that recognition of historical value in something like a handwritten artifact is rarely found before the late eighteenth century. I'm aware that the realization that an old family archive possessing no practical value almost always results in destruction. I'm aware that for a writer with mass appeal like Shakespeare, working in a medium where performance was the main goal, the manuscript of one of his plays was of value only so long as they had a recognized practical value and that was the performance. In essence, once it was performed and put down in print, who cares? I'm aware that, though there is no manuscript of one of his own plays in his own hand that has ever been discovered, the same is true of the productions of the other playwrights who worked in the period from 1580 to 1642, and that no manuscript of any play has survived in the autograph of Kyd, Greene, Jonson, Chapman, Dekker, Heywood, Marston, Webster, Beaumont, Fletcher, or Ford -- to name only some of the better known. I'm aware that no play by a professional playwright which was successful on the stage and which was printed before 1642 is known to have made it to today. I'm aware that, due to other factors like the pricing of paper or other necessary goods at the time, a particularly prolific author's wastepaper would be much more valuable to the binder or the printer down the street or around the corner than it would to the author let alone any surviving family members. And, knowing Shakespeare could arguably be considered as a businessman first and the arguable greatest poet of all time second, this is not insignificant detail. Not being a scholar or historian myself, I can only agree that these and other explanations are correct and I'm aware that it's these facts that make the following little theory entirely pointless and rendered moot before I even begin.
@@ -163,130 +159,235 @@ Maybe he said as much?
 **Sonnet 16**
 
 But wherefore do not you a mightier way
+
 Make war upon this bloody tyrant, time,
+
 And fortify yourself in your decay
+
 With means more blessèd than my barren rhyme?
+
 Now stand you on the top of happy hours,
+
 And many maiden gardens, yet unset,
+
 With virtuous wish would bear your living flowers,
+
 Much liker than your painted counterfeit.
+
 So should the lines of life that life repair
+
 Which this time’s pencil or my pupil pen
+
 Neither in inward worth nor outward fair
+
 Can make you live yourself in eyes of men.
+
 To give away yourself keeps yourself still,
+
 And you must live, drawn by your own sweet skill.
+
 
 
 **Hamlet - Act 1, Scene 5**
 
 O all you host of heaven! O earth! What else?
+
 And shall I couple hell? Oh, fie! Hold, hold, my heart,
+
 And you, my sinews, grow not instant old,
+
 But bear me stiffly up. Remember thee!
+
 Ay, thou poor ghost, whiles memory holds a seat
+
 In this distracted globe. Remember thee!
+
 Yea, from the table of my memory
+
 I’ll wipe away all trivial fond records,
+
 All saws of books, all forms, all pressures past
+
 That youth and observation copied there,
+
 And thy commandment all alone shall live
+
 Within the book and volume of my brain,
+
 Unmixed with baser matter. Yes, by heaven!
+
 O most pernicious woman!
+
 O villain, villain, smiling, damnèd villain!
+
 My tables!—Meet it is I set it down
+
 That one may smile, and smile, and be a villain.
+
 At least I’m sure it may be so in Denmark.
+
 So, Uncle, there you are. Now to my word.
+
 It is "Adieu, adieu. Remember me."
+
 I have sworn 't.
+
 
 
 **As You Like It - Act 2, Scene 7**
 
 All the world’s a stage,
+
 And all the men and women merely players;
+
 They have their exits and their entrances;
+
 And one man in his time plays many parts,
+
 His acts being seven ages. At first the infant,
+
 Mewling and puking in the nurse’s arms;
+
 And then the whining school-boy, with his satchel
+
 And shining morning face, creeping like snail
+
 Unwillingly to school. And then the lover,
+
 Sighing like furnace, with a woeful ballad
+
 Made to his mistress’ eyebrow. Then a soldier,
+
 Full of strange oaths, and bearded like the pard,
+
 Jealous in honour, sudden and quick in quarrel,
+
 Seeking the bubble reputation
+
 Even in the cannon’s mouth. And then the justice,
+
 In fair round belly with good capon lin’d,
+
 With eyes severe and beard of formal cut,
+
 Full of wise saws and modern instances;
+
 And so he plays his part. The sixth age shifts
+
 Into the lean and slipper’d pantaloon,
+
 With spectacles on nose and pouch on side;
+
 His youthful hose, well sav’d, a world too wide
+
 For his shrunk shank; and his big manly voice,
+
 Turning again toward childish treble, pipes
+
 And whistles in his sound. Last scene of all,
+
 That ends this strange eventful history,
+
 Is second childishness and mere oblivion;
+
 Sans teeth, sans eyes, sans taste, sans everything.
+
 
 
 **Macbeth - Act 5, Scene 5**
 
 She should have died hereafter.
+
 There would have been a time for such a word.
+
 Tomorrow, and tomorrow, and tomorrow,
+
 Creeps in this petty pace from day to day
+
 To the last syllable of recorded time,
+
 And all our yesterdays have lighted fools
+
 The way to dusty death. Out, out, brief candle!
+
 Life’s but a walking shadow, a poor player
+
 That struts and frets his hour upon the stage
+
 And then is heard no more. It is a tale
+
 Told by an idiot, full of sound and fury,
+
 Signifying nothing.
+
 
 
 **The Tempest - Act 4, Scene 1**
 
 Our revels now are ended. These our actors,
+
 As I foretold you, were all spirits and
+
 Are melted into air, into thin air:
+
 And, like the baseless fabric of this vision,
+
 The cloud-capp'd towers, the gorgeous palaces,
+
 The solemn temples, the great globe itself,
+
 Yea, all which it inherit, shall dissolve
+
 And, like this insubstantial pageant faded,
+
 Leave not a rack behind. We are such stuff
+
 As dreams are made on, and our little life
+
 Is rounded with a sleep.
+
 
 
 **The Tempest - Act 5, Epilogue**
 
 Now my charms are all o'erthrown,
+
 And what strength I have's mine own,
+
 Which is most faint. Now 'tis true
+
 I must be here confined by you
+
 Or sent to Naples. Let me not,
+
 Since I have my dukedom got,
+
 And pardoned the deceiver, dwell
+
 In this bare island by your spell;
+
 But release me from my bands
+
 With the help of your good hands.
+
 Gentle breath of yours my sails
+
 Must fill, or else my project fails,
+
 Which was to please. Now I want
+
 Spirits to enforce, art to enchant;
+
 And my ending is despair
+
 Unless I be relieved by prayer,
+
 Which pierces so, that it assaults
+
 Mercy itself, and frees all faults.
+
 As you from crimes would pardoned be,
+
 Let your indulgence set me free.
 
 <br/>
