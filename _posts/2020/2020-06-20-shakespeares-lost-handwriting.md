@@ -158,35 +158,22 @@ Maybe he said as much?
 
 **Sonnet 16**
 
-But wherefore do not you a mightier way
+But wherefore do not you a mightier way<br>
+Make war upon this bloody tyrant, time,<br>
+And fortify yourself in your decay<br>
+With means more blessèd than my barren rhyme?<br>
+Now stand you on the top of happy hours,<br>
+And many maiden gardens, yet unset,<br>
+With virtuous wish would bear your living flowers,<br>
+Much liker than your painted counterfeit.<br>
+So should the lines of life that life repair<br>
+Which this time’s pencil or my pupil pen<br>
+Neither in inward worth nor outward fair<br>
+Can make you live yourself in eyes of men.<br>
+To give away yourself keeps yourself still,<br>
+And you must live, drawn by your own sweet skill.<br>
 
-Make war upon this bloody tyrant, time,
-
-And fortify yourself in your decay
-
-With means more blessèd than my barren rhyme?
-
-Now stand you on the top of happy hours,
-
-And many maiden gardens, yet unset,
-
-With virtuous wish would bear your living flowers,
-
-Much liker than your painted counterfeit.
-
-So should the lines of life that life repair
-
-Which this time’s pencil or my pupil pen
-
-Neither in inward worth nor outward fair
-
-Can make you live yourself in eyes of men.
-
-To give away yourself keeps yourself still,
-
-And you must live, drawn by your own sweet skill.
-
-
+</br>
 
 **Hamlet - Act 1, Scene 5**
 
