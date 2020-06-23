@@ -73,7 +73,7 @@ Additionally, there are the famous but admittedly perhaps apocryphal stories, th
 And I can even be convinced that his talents for poésie simply had the je ne sais quoi touch of genius or were so unique or so far beyond normal that they would appear almost as if an idiot savant compared to even the hardest working wordsmith. As evidence, I might even point out it would take a supremely naturally talented 18-year-old poet to bed the 26-year-old Anne Hathaway and convince her he needed to go to London where he'd make his fame and fortune alone while she dutifully stayed home with the 3 kids. As any man will tell you, that bit of his biography, in itself, is nothing short of heroic and a feat no man, be he modern or antiquated, would ever argue is not a special gift from the Grace of God.
 
 ---
-{% include image-caption.html imageurl="/assets/images/posts/2020/couple-ignoring.jpg" title="couple-ignoring" caption="A dramatic reenactment of William Shakespeare and Anne Hathaway. Here, William explains why he needs to travel to London for fame and fortune and leave Anne with the kids at home in Stratford. William: "Seriously, babe, this is gonna be great for us! It can only strengthen our relationship!" " %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/couple-ignoring.jpg" title="couple-ignoring" caption="A dramatic reenactment of William Shakespeare and Anne Hathaway. Here, William explains why he needs to travel to London for fame and fortune and leave Anne with the kids at home in Stratford. William: Seriously, babe, this is gonna be great for us! It can only strengthen our relationship!" %}
 ---
 
 Still, I struggle.
