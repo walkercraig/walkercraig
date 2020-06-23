@@ -173,208 +173,121 @@ Can make you live yourself in eyes of men.<br>
 To give away yourself keeps yourself still,<br>
 And you must live, drawn by your own sweet skill.<br>
 
-</br>
+<br/>
 
 **Hamlet - Act 1, Scene 5**
 
-O all you host of heaven! O earth! What else?
+O all you host of heaven! O earth! What else?<br>
+And shall I couple hell? Oh, fie! Hold, hold, my heart,<br>
+And you, my sinews, grow not instant old,<br>
+But bear me stiffly up. Remember thee!<br>
+Ay, thou poor ghost, whiles memory holds a seat<br>
+In this distracted globe. Remember thee!<br>
+Yea, from the table of my memory<br>
+I’ll wipe away all trivial fond records,<br>
+All saws of books, all forms, all pressures past<br>
+That youth and observation copied there,<br>
+And thy commandment all alone shall live<br>
+Within the book and volume of my brain,<br>
+Unmixed with baser matter. Yes, by heaven!<br>
+O most pernicious woman!<br>
+O villain, villain, smiling, damnèd villain!<br>
+My tables!—Meet it is I set it down<br>
+That one may smile, and smile, and be a villain.<br>
+At least I’m sure it may be so in Denmark.<br>
+So, Uncle, there you are. Now to my word.<br>
+It is "Adieu, adieu. Remember me."<br>
+I have sworn 't.<br>
 
-And shall I couple hell? Oh, fie! Hold, hold, my heart,
-
-And you, my sinews, grow not instant old,
-
-But bear me stiffly up. Remember thee!
-
-Ay, thou poor ghost, whiles memory holds a seat
-
-In this distracted globe. Remember thee!
-
-Yea, from the table of my memory
-
-I’ll wipe away all trivial fond records,
-
-All saws of books, all forms, all pressures past
-
-That youth and observation copied there,
-
-And thy commandment all alone shall live
-
-Within the book and volume of my brain,
-
-Unmixed with baser matter. Yes, by heaven!
-
-O most pernicious woman!
-
-O villain, villain, smiling, damnèd villain!
-
-My tables!—Meet it is I set it down
-
-That one may smile, and smile, and be a villain.
-
-At least I’m sure it may be so in Denmark.
-
-So, Uncle, there you are. Now to my word.
-
-It is "Adieu, adieu. Remember me."
-
-I have sworn 't.
-
-
+<br/>
 
 **As You Like It - Act 2, Scene 7**
 
-All the world’s a stage,
+All the world’s a stage,<br>
+And all the men and women merely players;<br>
+They have their exits and their entrances;<br>
+And one man in his time plays many parts,<br>
+His acts being seven ages. At first the infant,<br>
+Mewling and puking in the nurse’s arms;<br>
+And then the whining school-boy, with his satchel<br>
+And shining morning face, creeping like snail<br>
+Unwillingly to school. And then the lover,<br>
+Sighing like furnace, with a woeful ballad<br>
+Made to his mistress’ eyebrow. Then a soldier,<br>
+Full of strange oaths, and bearded like the pard,<br>
+Jealous in honour, sudden and quick in quarrel,<br>
+Seeking the bubble reputation<br>
+Even in the cannon’s mouth. And then the justice,<br>
+In fair round belly with good capon lin’d,<br>
+With eyes severe and beard of formal cut,<br>
+Full of wise saws and modern instances;<br>
+And so he plays his part. The sixth age shifts<br>
+Into the lean and slipper’d pantaloon,<br>
+With spectacles on nose and pouch on side;<br>
+His youthful hose, well sav’d, a world too wide<br>
+For his shrunk shank; and his big manly voice,<br>
+Turning again toward childish treble, pipes<br>
+And whistles in his sound. Last scene of all,<br>
+That ends this strange eventful history,<br>
+Is second childishness and mere oblivion;<br>
+Sans teeth, sans eyes, sans taste, sans everything.<br>
 
-And all the men and women merely players;
-
-They have their exits and their entrances;
-
-And one man in his time plays many parts,
-
-His acts being seven ages. At first the infant,
-
-Mewling and puking in the nurse’s arms;
-
-And then the whining school-boy, with his satchel
-
-And shining morning face, creeping like snail
-
-Unwillingly to school. And then the lover,
-
-Sighing like furnace, with a woeful ballad
-
-Made to his mistress’ eyebrow. Then a soldier,
-
-Full of strange oaths, and bearded like the pard,
-
-Jealous in honour, sudden and quick in quarrel,
-
-Seeking the bubble reputation
-
-Even in the cannon’s mouth. And then the justice,
-
-In fair round belly with good capon lin’d,
-
-With eyes severe and beard of formal cut,
-
-Full of wise saws and modern instances;
-
-And so he plays his part. The sixth age shifts
-
-Into the lean and slipper’d pantaloon,
-
-With spectacles on nose and pouch on side;
-
-His youthful hose, well sav’d, a world too wide
-
-For his shrunk shank; and his big manly voice,
-
-Turning again toward childish treble, pipes
-
-And whistles in his sound. Last scene of all,
-
-That ends this strange eventful history,
-
-Is second childishness and mere oblivion;
-
-Sans teeth, sans eyes, sans taste, sans everything.
-
-
+<br/>
 
 **Macbeth - Act 5, Scene 5**
 
-She should have died hereafter.
+She should have died hereafter.<br>
+There would have been a time for such a word.<br>
+Tomorrow, and tomorrow, and tomorrow,<br>
+Creeps in this petty pace from day to day<br>
+To the last syllable of recorded time,<br>
+And all our yesterdays have lighted fools<br>
+The way to dusty death. Out, out, brief candle!<br>
+Life’s but a walking shadow, a poor player<br>
+That struts and frets his hour upon the stage<br>
+And then is heard no more. It is a tale<br>
+Told by an idiot, full of sound and fury,<br>
+Signifying nothing.<br>
 
-There would have been a time for such a word.
-
-Tomorrow, and tomorrow, and tomorrow,
-
-Creeps in this petty pace from day to day
-
-To the last syllable of recorded time,
-
-And all our yesterdays have lighted fools
-
-The way to dusty death. Out, out, brief candle!
-
-Life’s but a walking shadow, a poor player
-
-That struts and frets his hour upon the stage
-
-And then is heard no more. It is a tale
-
-Told by an idiot, full of sound and fury,
-
-Signifying nothing.
-
-
+<br/>
 
 **The Tempest - Act 4, Scene 1**
 
-Our revels now are ended. These our actors,
+Our revels now are ended. These our actors,<br>
+As I foretold you, were all spirits and<br>
+Are melted into air, into thin air:<br>
+And, like the baseless fabric of this vision,<br>
+The cloud-capp'd towers, the gorgeous palaces,<br>
+The solemn temples, the great globe itself,<br>
+Yea, all which it inherit, shall dissolve<br>
+And, like this insubstantial pageant faded,<br>
+Leave not a rack behind. We are such stuff<br>
+As dreams are made on, and our little life<br>
+Is rounded with a sleep.<br>
 
-As I foretold you, were all spirits and
-
-Are melted into air, into thin air:
-
-And, like the baseless fabric of this vision,
-
-The cloud-capp'd towers, the gorgeous palaces,
-
-The solemn temples, the great globe itself,
-
-Yea, all which it inherit, shall dissolve
-
-And, like this insubstantial pageant faded,
-
-Leave not a rack behind. We are such stuff
-
-As dreams are made on, and our little life
-
-Is rounded with a sleep.
-
-
+<br/>
 
 **The Tempest - Act 5, Epilogue**
 
-Now my charms are all o'erthrown,
-
-And what strength I have's mine own,
-
-Which is most faint. Now 'tis true
-
-I must be here confined by you
-
-Or sent to Naples. Let me not,
-
-Since I have my dukedom got,
-
-And pardoned the deceiver, dwell
-
-In this bare island by your spell;
-
-But release me from my bands
-
-With the help of your good hands.
-
-Gentle breath of yours my sails
-
-Must fill, or else my project fails,
-
-Which was to please. Now I want
-
-Spirits to enforce, art to enchant;
-
-And my ending is despair
-
-Unless I be relieved by prayer,
-
-Which pierces so, that it assaults
-
-Mercy itself, and frees all faults.
-
-As you from crimes would pardoned be,
-
-Let your indulgence set me free.
+Now my charms are all o'erthrown,<br>
+And what strength I have's mine own,<br>
+Which is most faint. Now 'tis true<br>
+I must be here confined by you<br>
+Or sent to Naples. Let me not,<br>
+Since I have my dukedom got,<br>
+And pardoned the deceiver, dwell<br>
+In this bare island by your spell;<br>
+But release me from my bands<br>
+With the help of your good hands.<br>
+Gentle breath of yours my sails<br>
+Must fill, or else my project fails,<br>
+Which was to please. Now I want<br>
+Spirits to enforce, art to enchant;<br>
+And my ending is despair<br>
+Unless I be relieved by prayer,<br>
+Which pierces so, that it assaults<br>
+Mercy itself, and frees all faults.<br>
+As you from crimes would pardoned be,<br>
+Let your indulgence set me free.<br>
 
 <br/>
