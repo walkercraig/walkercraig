@@ -12,6 +12,6 @@ Jake Ecko has been in Chicago only a few months, so he wasn’t sure if the wild
 
 You can’t blame a newcomer for wondering. Rich high-rise owners pleading poverty for tax breaks; corporations relocating headquarters doing the same; shoeboxes and refrigerators filled with money; gangs of young people running through the streets with little or no repercussions due to potential election ramifications; violent offenders released on little or no bond due to the same; fictitious racists-sexists-bigots-homophobes and fictitious children in a politician’s Who’s Who entry.
 
-<h3><a href="https://www.chicagojournal.com/opinion-new-in-town-the-names-may-change-but-how-things-work-dont-bub">Read the rest in the Chicago Journal...</a></h3>
+<h3><a href="https://www.chicagojournal.com/new-in-town">Read the rest in the Chicago Journal...</a></h3>
 
 <br/>
