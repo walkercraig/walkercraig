@@ -16,9 +16,9 @@ Was but a sequence of wars
 
 Defining, refining, enshrining
 
-Mea mores
+Mea Mores
 
-Such simple joy
+Such simple Joy
 
 I did not know there could be
 
