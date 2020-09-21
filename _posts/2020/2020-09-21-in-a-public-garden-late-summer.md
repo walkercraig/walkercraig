@@ -16,7 +16,7 @@ Mothers cry out fearful of the stain
 
 Oleander spills barrels of apricots
 
-Brimfull are the wandering olfact wells
+Brimful are the wandering olfact wells
 
 Ivy vines redecorate their weather worn homes
 
