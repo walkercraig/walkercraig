@@ -36,7 +36,7 @@ The crickets weep in tune within the willows
 
 Swimming in fireflies that try to match the music of the stars
 
-As the Maestro keeps the rhythm of the great compose
+As the Maestro holds the rhythm of le Grande Composè
 
 I confess
 
@@ -51,6 +51,10 @@ Shine down from its great height
 Reflecting off the quiet lake
 
 And off my eye and back
+
+And off the face of those sweet waters
+
+And into mine eye black
 
 Upon all things on all the ærth
 
