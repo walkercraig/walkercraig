@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: [ Read ]
-title: For the Love of God, Vote NO on the Illinois "Fair" Tax Amendment
+title: Brian Urlacher Posts on Social Media and the Wide World of Sports Pulls Out Their Hair
 ---
 
 Not even Hall of Fame linebackers are given the benefit of the doubt for innocuous social media posts and Craig laughs at sports organizational nonsense. 
