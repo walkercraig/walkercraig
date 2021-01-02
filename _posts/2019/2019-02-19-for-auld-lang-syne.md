@@ -4,11 +4,11 @@ tag: [ Letters ]
 title: For Auld Lang Syne
 ---
 
-Craig had a song stuck in his head for nearly 2 months and needed to do what he could to stop thinking about it, so he wrote down some thoughts on the classic Robert Burns poem and folk traditional song, "Auld Lang Syne." Other topics Craig covers in this letter include the New Year holiday, Christmas, nostalgia as a sentiment and Nostalgia™ as a prescription drug, Owen Wilson and the completely ridiculous and over-the-top fantastic Michael Bay popcorn movie classic, Armageddon, and William Shakespeare.
+Craig had a song stuck in his head and needed to do what he could to stop thinking about it, so he wrote some thoughts on the classic Robert Burns poem and folk traditional song, "Auld Lang Syne." Other topics Craig covers in this letter include the New Year holiday, Christmas, nostalgia as a sentiment and Nostalgia™ as a prescription drug, Owen Wilson and the completely ridiculous and over-the-top fantastic Michael Bay popcorn movie classic, Armageddon, and William Shakespeare.
 
 ---
 
-I’ve been thinking about Auld Lang Syne. I’m not sure why it’s been on my mind, but I keep singing it and thinking about it.
+I’ve been thinking about Auld Lang Syne.
 
 Without going into the long history of the impossible not to know song, Auld Lang Syne is a Scots-language poem written in 1788 by the Bard of Ayrshire, the Ploughman Poet, the Soul of Scotland, Robert Burns and set to the melody of a traditional folk song. Parts of the poem and, of course, its sentiment existed long before the young Rabbie “borrowed” and added his own lyrics that he later turned in to James Johnson at the Scots Musical Museum but, for the most part, we have him to thank for the song sung in the present. After it was published, it quickly became a favorite of Scots and customary to sing at Hogmanay (also known as New Year’s Eve) and soon spread to the English, the Welsh, and the Irish, who all subsequently brought the tradition with them as they emigrated around the world.
 
