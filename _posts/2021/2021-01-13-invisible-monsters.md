@@ -55,14 +55,18 @@ It's an interesting phrase for a medical diagnosis. I don't think it would be an
 I think it's also fair to say that you'd have to be relatively obtuse to not see the unique parallel between that phrase and the condition of our modern society.
 
 Some would argue that mild forms of hysteria can be found in popular music and sports fandom, new technologies or great advancements, celebrity culture, favorite tools or clothing, and in the clamor for children's toys and fads especially around the holidays.
-"Have you heard [insert new band]? They're my favorite and I totally heard them before anyone else did..."
-"Nobody knows [insert favorite team or player] like I do..."
-"Did you get the new [branded product]? It's the best! I stood in line to have it first...]"
+
+* "Have you heard [insert new band]? They're my favorite and I totally heard them before anyone else did..."
+* "Nobody knows [insert favorite team or player] like I do..."
+* "Did you get the new [branded product]? It's the best! I stood in line to have it first...]"
+
 There are plenty of examples we could give that are all easy to see and, for the most part, easy to understand. Much of it can be dismissed as excited hyperbole or manners of speech amongst friends, but what if we include some common addendums...
-"General manager of [insert favorite team] did what? They're a moron and shouldn't have that job, I should have that job..."
-"No, my [favorite product] is the best and if you use [competitor's product] you're an idiot..."
-"Did you see what [insert famous person] did? lol. Dumbass. I would never..."
-"Anyone can do what they do but all these sheeple fall over themselves to worship them..."
+
+* "General manager of [insert favorite team] did what? They're a moron and shouldn't have that job, I should have that job..."
+* "No, my [favorite product] is the best and if you use [competitor's product] you're an idiot..."
+* "Did you see what [insert famous person] did? lol. Dumbass. I would never..."
+* "Anyone can do what they do but all these sheeple fall over themselves to worship them..."
+
 You can insert any profanities you want to include anywhere you like.
 
 Still, while all of the above things can be unhealthy and walk a fine line bordering on dangerous behavior depending on other circumstances, for the most part, they are relatively harmless. Let's also not pretend this is only some recent phenomenon found in our modern society or that it’s not just how some people naturally talk and criticize and make others laugh and let's not pretend that we will magically solve something as inherent to life as gossip. It's a natural part of us as much as anything else. And these mild forms of hysteria can be an advertiser or marketer's wet dream and people are handsomely compensated and build careers for their abilities to manipulate and maximize this mysterious hysteria. I think they'd admit as much. 
