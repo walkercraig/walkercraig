@@ -36,7 +36,7 @@ I don't wish to dwell on Cotton Mather other than to briefly point out that one 
 
 ---
 
-
+{% include image-caption.html imageurl="/assets/images/posts/2021/Cotton_Mather.jpg" title="Cotton Mather" caption="'Witches be trippin'...' - Cotton Mather" %}
 
 ---
 
@@ -87,7 +87,7 @@ Welcome to the future...isn't it grand?
 
 ---
 
-
+{% include image-caption.html imageurl="/assets/images/posts/2021/notyourfault.jpg" title="Not Your Fault" caption="Thanks, Robin. I'm feeling much better. Now let's ju-...no? What? No? Hold on a second, Robin Williams, I don't think a Civil War is a good idea...no, damn it, I don't want to fire on Fort Sumpter! What? I'm sorry I just don't see what Antietam has to do with this..." %}
 
 ---
 
@@ -103,7 +103,7 @@ But I'm not here to reignite the social media flame war against teenage girls of
 
 ---
 
-
+{% include image-caption.html imageurl="/assets/images/posts/2021/salem-witch-trials.jpg" title="Salem Witch Trials" caption="Sheesh, can you imagine the behavior if these girls had a TikTok?" %}
 
 ---
 
@@ -131,7 +131,7 @@ Isn't it ironic then that, while we carry a device that fits into our pockets th
 
 ---
 
-
+{% include image-caption.html imageurl="/assets/images/posts/2021/salem-witch-trials.jpg" title="Salem Witch Trials" caption="Sheesh, can you imagine the behavior if these girls had a TikTok?" %}
 
 ---
 
@@ -167,7 +167,7 @@ I'm sure you would agree that sounds pretty damn prescient, yes?
 
 ---
 
-
+{% include image-caption.html imageurl="/assets/images/posts/2021/sagan.jpg" title="Carl Sagan" caption=""What'ya doin', Carl?" "Oh, you know, blowin' minds and stuff..."" %}
 
 ---
 
@@ -197,12 +197,6 @@ Maybe reading how Carl Sagan saw our modern era coming from 25 years time is not
 
 Maybe the following excerpt will look familiar to you?
 
----
-
-
-
----
-
 "So revolutions broke out in city after city, and in places where the revolutions occurred late the knowledge of what had happened previously in other places caused still new extravagances of revolutionary zeal, expressed by an elaboration in the methods of seizing power and by unheard-of atrocities in revenge. To fit in with the change of events, words, too, had to change their usual meanings. What used to be described as a thoughtless act of aggression was now regarded as the courage one would expect to find in a party member; to think of the future and wait was merely another way of saying one was a coward; any idea of moderation was just an attempt to disguise one’s unmanly character; ability to understand a question from all sides meant that one was totally unfitted for action. Fanatical enthusiasm was the mark of a real man, and to plot against an enemy behind his back was perfectly legitimate self-defense. Anyone who held violent opinions could always be trusted, and anyone who objected to them became a suspect. To plot successfully was a sign of intelligence, but it was still cleverer to see that a plot was hatching. If one attempted to provide against having to do either, one was disrupting the unity of the party and acting out of fear of the opposition. In short, it was equally praiseworthy to get one’s blow in first against someone who was going to do wrong, and to denounce someone who had no intention of doing any wrong at all. Family relations were a weaker tie than party membership, since party members were more ready to go to any extreme for any reason whatever. These parties were not formed to enjoy the benefits of the established laws, but to acquire power by overthrowing the existing regime; and the members of these parties felt confidence in each other not because of any fellowship in a religious communion, but because they were partners in crime. If an opponent made a reasonable speech, the party in power, so far from giving it a generous reception, took every precaution to see that it had no practical effect."
 
 "Revenge was more important than self-preservation. And if pacts of mutual security were made, they were entered into by the two parties only in order to meet some temporary difficulty, and remained in force only so long as there was no other weapon available. When the chance came, the one who first seized it boldly, catching his enemy off his guard, enjoyed a revenge that was all the sweeter from having been taken, not openly, but because of a breach of faith. It was safer that way, it was considered, and at the same time a victory won by treachery gave one a title for superior intelligence. And indeed most people are more ready to call villainy cleverness than simple-mindedness honesty. They are proud of the first quality and ashamed of the second."
@@ -212,10 +206,6 @@ Maybe the following excerpt will look familiar to you?
 "As the result of these revolutions, there was a general deterioration of character throughout the Greek world. The simple way of looking at things, which is so much the mark of a noble nature, was regarded as a ridiculous quality and soon ceased to exist. Society had become divided into two ideologically hostile camps, and each side viewed the other with suspicion. As for ending this state of affairs, no guarantee could be given that would be trusted, no oath sworn that people would fear to break; everyone had come to the conclusion that it was hopeless to expect a permanent settlement and so, instead of being able to feel confident in others, they devoted their energies to providing against being injured themselves. As a rule those who were least remarkable for intelligence showed the greater powers of survival. Such people recognized their own deficiencies and the superior intelligence of their opponents; fearing that they might lose a debate or find themselves out-maneuvered in intrigue by their quick-witted enemies, they boldly launched straight into action; while their opponents, overconfident in the belief that they would see what was happening in advance, and not thinking it necessary to seize by force what they could secure by policy, were the more easily destroyed because they were off their guard."
 
 "Certainly it was in Corcyra that there occurred the first examples of the breakdown of law and order. There was the revenge taken in their hour of triumph by those who had in the past been arrogantly oppressed instead of wisely governed; there were the wicked resolutions taken by those who, particularly under the pressure of misfortune, wished to escape from their usual poverty and coveted the property of their neighbors; there were the savage and pitiless actions into which men were carried not so much for the sake of gain as because they were swept away into an internecine struggle by their ungovernable passions. Then, with the ordinary conventions of civilized life thrown into confusion, human nature, always ready to offend even where laws exist, showed itself proudly in its true colors, as something incapable of controlling passion, insubordinate to the idea of justice, the enemy to anything superior to itself; for, if it had not been for the pernicious power of envy, men would not so have exalted vengeance above innocence and profit above justice. Indeed, it is true that in these acts of revenge on others men take it upon themselves to begin the process of repealing those general laws of humanity which are there to give a hope of salvation to all who are in distress, instead of leaving those laws in existence, remembering that there may come a time when they, too, will be in danger and will need their protection."
-
----
-
-
 
 ---
 
@@ -232,7 +222,7 @@ Thanks, I guess.
 
 ---
 
-
+{% include image-caption.html imageurl="/assets/images/posts/2021/thucy.jpg" title="Thucydides" caption="Listen, Thucy, can I call you Thucy? What are your thoughts on the upcoming Super Bowl? Anything to see about the over/under and do you think they'll cover the spread?" %}
 
 ---
 
@@ -270,10 +260,6 @@ I shouldn't have to say this but I'm obviously not referring or including any in
 
 ---
 
-
-
----
-
 That's when the invisible monsters in all of us begin to come forth. Once that threshold is crossed, the invisible monsters will be waiting behind every tree and around every corner. Behind every door in every home. Under every thumb. Every slight and every glance behind every eye, reimagined and recast as if from an invisible monsters inside. Even simple mistakes become great injustices of inimitable circumstances beyond our control done by the only possible answer called evil. 
 
 That's when the Devils begin to take shape. And you see them in your neighbors and friends and employees and bosses and politicians...and they begin to point fingers...
@@ -304,7 +290,7 @@ No. They're lazy, isolated, and bored looking for anything to break the monotony
 
 ---
 
-
+{% include image-caption.html imageurl="/assets/images/posts/2021/siri.gif" title="Hey Siri" caption="Hey Siri, turn on the Civil War 2: Electric Boogaloo. Also, order a pizza..." %}
 
 ---
 
