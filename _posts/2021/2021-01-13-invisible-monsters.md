@@ -296,6 +296,6 @@ Today is no different. Take comfort, that these storms will pass and the sun wil
 
 Oh, I almost forgot. Perhaps you're wondering why I singled out the young Anne Putnam at the beginning of this letter?
 
-Anne Putnam was the only one to ever apologize for her behavior in the Salem Witch Trials.
+Anne Putnam was the only person to ever apologize for her behavior in the Salem Witch Trials.
 
 The only one.
