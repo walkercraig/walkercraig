@@ -35,9 +35,7 @@ Cotton Mather was a strange man. He never denounced Spectral Evidence publicly, 
 I don't wish to dwell on Cotton Mather other than to briefly point out that one man can have many sides and peculiarities.
 
 ---
-
-{% include image-caption.html imageurl="/assets/images/posts/2021/Cotton_Mather.jpg" title="Cotton Mather" caption="'Witches be trippin'...' - Cotton Mather" %}
-
+{% include image-caption.html imageurl="/assets/images/posts/2021/Cotton_Mather.jpg" title="Cotton Mather" caption="Witches be trippin'... - Cotton Mather" %}
 ---
 
 The Salem Witch Trials remain the most famous example of mass hysteria in American history and now often serve as a cautionary tale about the dangers of isolationism, religious extremism, false accusations, and lapses in due process. George Lincoln Burr, noted historian and Professor of History and Librarian at Cornell University in the late 19th and early 20th centuries, said about the trials, "the Salem witchcraft was the rock on which the theocracy shattered."
@@ -48,7 +46,7 @@ It's a funny thing, hysteria.
 
 Our modern perspective on it can take many forms and vary in its severity, but HPD is defined by the American Psychiatric Association as a personality disorder characterized by a pattern of excessive attention-seeking behaviors, usually beginning in early childhood, including inappropriate seduction and an excessive desire for approval. Others describe it more simply as, "A mental health condition characterized by an overwhelming desire to be noticed and dramatic behavior." 
 
-If a tree falls in the forest...
+## If a tree falls in the forest...
 
 “An overwhelming desire to be noticed...” 
 
@@ -86,12 +84,10 @@ And then they begin to point fingers...
 Welcome to the future...isn't it grand?
 
 ---
-
 {% include image-caption.html imageurl="/assets/images/posts/2021/notyourfault.jpg" title="Not Your Fault" caption="Thanks, Robin. I'm feeling much better. Now let's ju-...no? What? No? Hold on a second, Robin Williams, I don't think a Civil War is a good idea...no, damn it, I don't want to fire on Fort Sumpter! What? I'm sorry I just don't see what Antietam has to do with this..." %}
-
 ---
 
-**The storm is coming...**
+## The storm is coming...
 
 How do children often react to their first conscious summer thunderstorm? Most are fearful. Terrified, even. Until they see the parents and those around them, loved ones they know and trust who've heretofore kept them safe and warm and protected, who've experienced it many times before, knowing that this...torrent...will pass.
 
@@ -102,9 +98,7 @@ It's a little more complicated but, essentially, that was the reaction from the 
 But I'm not here to reignite the social media flame war against teenage girls of Salem in the 17th Century. Plus, they'd probably be on TikTok and I don't have a TikTok.
 
 ---
-
 {% include image-caption.html imageurl="/assets/images/posts/2021/salem-witch-trials.jpg" title="Salem Witch Trials" caption="Sheesh, can you imagine the behavior if these girls had a TikTok?" %}
-
 ---
 
 Hysteria comes and goes like a summer storm. Like a summer storm, while it hangs over the heads of an individual or a community, it can feel almost biblical and the thing of nightmares and, if we hadn't been fortunate enough to have experienced storms so many times before, I don't know how anyone is supposed to rightly function under such clouds.
@@ -130,9 +124,7 @@ It could be argued that, if we don't engage with or refuse to engage with our ow
 Isn't it ironic then that, while we carry a device that fits into our pockets that allows us to be one with history, that gives us the ability to look up and interact with the entire history of human knowledge, and gives us the ability to teach each other and learn how to do anything we as humans know how to do, we feel so alone? Isn't it a wonder, so many feel an overwhelming desire to be noticed? And the dramatic behaviors that go with it...
 
 ---
-
 {% include image-caption.html imageurl="/assets/images/posts/2021/salem-witch-trials.jpg" title="Salem Witch Trials" caption="Sheesh, can you imagine the behavior if these girls had a TikTok?" %}
-
 ---
 
 I have a lot to say regarding the profound changes and the technological moment we're living through and its impact on our human condition that will have to wait for a much, much longer piece that I'm eventually going to do. I will quickly say that, while what we are currently beginning to experience is something not entirely unique in history, it is most certainly up there among the most profound changes technology has ever delivered us through time.
@@ -166,9 +158,7 @@ Sagan writes:
 I'm sure you would agree that sounds pretty damn prescient, yes?
 
 ---
-
-{% include image-caption.html imageurl="/assets/images/posts/2021/sagan.gif" title="Carl Sagan" caption=""What'ya doin', Carl?" "Oh, you know, blowin' minds and stuff..."" %}
-
+{% include image-caption.html imageurl="/assets/images/posts/2021/sagan.gif" title="Carl Sagan" caption="What'ya doin', Carl? Oh, you know, blowin' minds and stuff..." %}
 ---
 
 And yet, if you reread Sagan's words carefully, both sides could reasonably quote it and pick it apart and turn it around on the other. Many perspectives could say, "Ha! That's right and that's why you're wrong and that's why I'm right and won't listen to you!" And, though there is prescient wisdom in that statement, a person can pearl clutch and nervously consult old "science" or any perspective because it makes them feel good and it can cause them to slide them into superstition and darkness just as much as anyone who approaches from a perspective of faith or any other perspective, really.
@@ -181,7 +171,7 @@ Despite their refutations, this New Science and this New Faith and its followers
 
 Before you jump on me, Science is right to answer, "Well that's not Science then," and they're correct. When the standards are properly applied, they are correct. But how quickly they forget? How quickly we all forget our most human of natures?
 
-**Believe in Science**
+## Believe in Science
 
 They've tried to prosecute faith for enough centuries that I'm not going to do so here, but I'm consistently amazed at how often "scientists" are willing to embrace this oxymoron. It's confounding but it certainly makes it easier to spot the actual morons.
 
@@ -221,9 +211,7 @@ Thucydides made this claim for his book:
 Thanks, I guess.
 
 ---
-
 {% include image-caption.html imageurl="/assets/images/posts/2021/thucy.jpg" title="Thucydides" caption="Listen, Thucy, can I call you Thucy? What are your thoughts on the upcoming Super Bowl? Anything to see about the over/under and do you think they'll cover the spread?" %}
-
 ---
 
 I think I mentioned above that, as I grow or try to grow, I've been doing my best to be better about giving people the benefit of the doubt and being more careful and considered with my words. Not Stoic, per se, as I think going too far with anything can be a misstep and that dynamics in life are just as important in playing the composition as the player's technique. Just a little more considered.
@@ -232,7 +220,7 @@ So much of what we have done, what we have allowed to be done, in response to th
 
 But that damned human nature...
 
-**Getting close to the end...**
+## Getting close to the end...
 
 I admit, these days feel almost as if the clouds are hovering over us continually and that these clouds have unleashed nothing short of a metaphorical torrent of pure mass hysteria. All of us convicted under spectral evidence in the Holy Name of Science. You're welcome to include the last few weeks and months and years, if you like.
 
@@ -289,9 +277,7 @@ If the young men of this great land were to fight the Civil War again today it w
 No. They're lazy, isolated, and bored looking for anything to break the monotony of their day and to pass the time?
 
 ---
-
 {% include image-caption.html imageurl="/assets/images/posts/2021/siri.gif" title="Hey Siri" caption="Hey Siri, turn on the Civil War 2: Electric Boogaloo. Also, order a pizza..." %}
-
 ---
 
 So why don't we all just cool down the rhetoric, okay?
