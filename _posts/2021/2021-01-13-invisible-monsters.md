@@ -128,8 +128,6 @@ It could be argued that, if we don't engage with or refuse to engage with our ow
 Isn't it ironic then that, while we carry a device that fits into our pockets that allows us to be one with history, that gives us the ability to look up and interact with the entire history of human knowledge, and gives us the ability to teach each other and learn how to do anything we as humans know how to do, we feel so alone? Isn't it a wonder, so many feel an overwhelming desire to be noticed? And the dramatic behaviors that go with it...
 
 ---
-{% include image-caption.html imageurl="/assets/images/posts/2021/salem-witch-trials.jpg" title="Salem Witch Trials" caption="Sheesh, can you imagine the behavior if these girls had a TikTok?" %}
----
 
 I have a lot to say regarding the profound changes and the technological moment we're living through and its impact on our human condition that will have to wait for a much, much longer piece that I'm eventually going to do. I will quickly say that, while what we are currently beginning to experience is something not entirely unique in history, it is most certainly up there among the most profound changes technology has ever delivered us through time.
 
