@@ -274,9 +274,9 @@ Just because we may agree or disagree on certain aspects of an argument, it does
 
 This is not this country's first challenge and it will most certainly not be its last. You are not experiencing a true insurrection. You are not experiencing a race war. We are not about to be drafted to march to Gettysburg.
 
-If the young men of this great land were to fight the Civil War again today it would be the equivalent of 6.5 - 8 million young Americans dead upon the field. Does anyone out there look like they are prepared for that type of commitment? Or does it look more like they're playing dress up and pretend? Do they look and sound like they're really read to take on the United State Military and rewrite power structure of the world? I mean, really?
+If the young men of this great land were to fight the Civil War again today it would be the equivalent of 6.5 - 8 million young Americans dead upon the field. Does anyone out there look like they are prepared for that type of commitment? Or does it look more like they're playing dress up and pretend? Do they look and sound like they're really read to take on the United States Military and rewrite power structure of the world? I mean, really?
 
-No. They're lazy, isolated, and bored looking for anything to break the monotony of their day and to pass the time?
+No. They're lazy, isolated, and bored looking for anything to break the monotony of their day and to pass the time.
 
 ---
 {% include image-caption.html imageurl="/assets/images/posts/2021/siri.gif" title="Hey Siri" caption="Hey Siri, turn on the Civil War 2: Electric Boogaloo. Also, order a pizza..." %}
@@ -284,11 +284,9 @@ No. They're lazy, isolated, and bored looking for anything to break the monotony
 
 So why don't we all just cool down the rhetoric, okay?
 
-We are not there. This is not that. We are not experiencing a great battle with righteousness against our evil neighbor with the local democrat party sign running for city council. I mean, that's just a guess and, to be clear, I've been wrong before.
+We are not there. This is not that. We are not experiencing a great battle with righteousness against our evil neighbor with the local democrat party sign outside running for city council. I mean, that's just a guess and, to be clear, I've been wrong before.
 
-No, I think both sides are experiencing a tantrum of a hysterical group of teenage girls who aren't getting enough attention.
-
-The question is, do our "leaders" and do we have the courage to be parents?
+No, I think both sides are experiencing a tantrum of a hysterical group of teenage girls who aren't getting enough attention. The question is, do our "leaders" and do we have the courage to be parents?
 
 Do you know why the Salem Witch Trials finally came to an end? The Governor's wife was accused. The Governor told them to stop it. The executions ended.
 
