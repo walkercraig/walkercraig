@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: [ Letters ]
-title: For Auld Land Syne, 2020
+title: For Auld Lang Syne, 2020
 ---
 
 Craig updates a previous letter and begins an annual tradition.
