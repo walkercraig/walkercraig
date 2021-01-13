@@ -167,7 +167,7 @@ I'm sure you would agree that sounds pretty damn prescient, yes?
 
 ---
 
-{% include image-caption.html imageurl="/assets/images/posts/2021/sagan.jpg" title="Carl Sagan" caption=""What'ya doin', Carl?" "Oh, you know, blowin' minds and stuff..."" %}
+{% include image-caption.html imageurl="/assets/images/posts/2021/sagan.gif" title="Carl Sagan" caption=""What'ya doin', Carl?" "Oh, you know, blowin' minds and stuff..."" %}
 
 ---
 
