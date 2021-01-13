@@ -91,7 +91,7 @@ Welcome to the future...isn't it grand?
 
 ---
 
-The storm is coming...
+**The storm is coming...**
 
 How do children often react to their first conscious summer thunderstorm? Most are fearful. Terrified, even. Until they see the parents and those around them, loved ones they know and trust who've heretofore kept them safe and warm and protected, who've experienced it many times before, knowing that this...torrent...will pass.
 
@@ -181,7 +181,7 @@ Despite their refutations, this New Science and this New Faith and its followers
 
 Before you jump on me, Science is right to answer, "Well that's not Science then," and they're correct. When the standards are properly applied, they are correct. But how quickly they forget? How quickly we all forget our most human of natures?
 
-Believe in Science
+**Believe in Science**
 
 They've tried to prosecute faith for enough centuries that I'm not going to do so here, but I'm consistently amazed at how often "scientists" are willing to embrace this oxymoron. It's confounding but it certainly makes it easier to spot the actual morons.
 
@@ -232,7 +232,7 @@ So much of what we have done, what we have allowed to be done, in response to th
 
 But that damned human nature...
 
-Getting close to the end...
+**Getting close to the end...**
 
 I admit, these days feel almost as if the clouds are hovering over us continually and that these clouds have unleashed nothing short of a metaphorical torrent of pure mass hysteria. All of us convicted under spectral evidence in the Holy Name of Science. You're welcome to include the last few weeks and months and years, if you like.
 
