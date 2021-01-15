@@ -38,7 +38,7 @@ We’re here, spinnin’ ‘round on this careousel
 
 Just tryin’ tah liveit an' live it well
 
-'til some day it stops and bids ye'adieu - the quiet farewell
+'til some day it stops and bids ye'adieu, bon voya', fare t'e' well
 
 <br/>
 
