@@ -94,7 +94,7 @@ Bartender!
 
 You’s gah alla my money!
 
-Please please pleeease have mercay on meee
+Please please pleeease have mersey on meee
 
 An' fill my glass until my min' reaches the subli'e
 
