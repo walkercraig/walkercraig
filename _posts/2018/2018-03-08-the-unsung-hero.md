@@ -48,7 +48,7 @@ That this dust is made from Will
 
 For any all can be a light
 
-Anyone a fallen star
+Any one a fallen star
 
 And good or bad Will Just depend
 
@@ -56,7 +56,7 @@ From where you look, from where you are
 
 For any all can be the one
 
-Anyone can be a zero
+Any one can be a zero
 
 All are gifted this potential
 
