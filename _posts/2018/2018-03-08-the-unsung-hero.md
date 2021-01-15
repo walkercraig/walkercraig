@@ -20,7 +20,7 @@ And lifetimes yet to be
 
 Which life will be the better life?
 
-Life they did or will not see?
+Life they will or will not see?
 
 The old look back on seven ages
 
