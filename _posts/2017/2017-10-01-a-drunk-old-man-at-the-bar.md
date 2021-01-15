@@ -58,7 +58,7 @@ Please play my favorite song
 
 I promise it ayn’t toooo long
 
-Tonigh' all that damn jukebok has played are Saint Valentine shams
+Tonigh' all that damn jukeboks has played are Saynt Valentyne shams
 
 <br/>
 
