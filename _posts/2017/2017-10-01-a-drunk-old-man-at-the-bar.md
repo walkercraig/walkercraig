@@ -104,7 +104,7 @@ I promise
 
 You’ll ne'er see mee agaen
 
-I’ll dissappear like some great magician
+I’ll dissappear into the nite like some great magician
 
 And I’ll nevah come back until that clokk strike thirteen times
 
