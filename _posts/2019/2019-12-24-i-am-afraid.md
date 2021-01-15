@@ -8,7 +8,7 @@ title: I Am Afraid
 
 I am afraid for the rest of my days
 
-And afraid of the After, that causes all souls its malaise
+And afraid of the æfter, that causes all souls its malaise
 
 I am afraid sitting here in our home, safe and warm
 
