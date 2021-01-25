@@ -4,7 +4,7 @@ tag: [ Read ]
 title: Is J.B. Pritzker Unfit to Lead the State of Illinois?
 ---
 
-It was time for Craig to review Illinois Governor J.B. Pritzker's performance over the last year, most notably on his handling of COVID-19 and his lockdown policies.
+It was time for Craig to review Illinois Governor J.B. Pritzker's performance over the last year, most notably his handling of COVID-19 lockdown policies.
 
 ---
 
