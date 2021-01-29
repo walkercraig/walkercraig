@@ -32,13 +32,13 @@ That pretend deliverance is posture verbose
 
 A lie that from cacophony can come one chosen compose
 
-
+<br/>
 
 And yet
 
 Here I remain
 
-
+<br/>
 
 Amid sadness, amid strife
 
@@ -64,13 +64,13 @@ Yet still common melancholy yields
 
 Verse, Virtue, and Vice
 
-
+<br/>
 
 And yet
 
 Here I remain
 
-
+<br/>
 
 The fruits of our labors and souls of our nurtures
 
@@ -96,7 +96,7 @@ I, the Father of all to come
 
 I, the Author of all to some
 
-
+<br/>
 
 And yet
 
