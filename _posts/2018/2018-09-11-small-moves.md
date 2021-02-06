@@ -61,8 +61,7 @@ You’re welcome to call this what you wish. A newsletter? A blog? A shameful di
 I understand even the idea of starting something like this, at the minimum, reeks of pretension and, at worst, will serve as “Exhibit A” in my eternal judgment. For who am I to suggest that my perspective or insight into an issue is better than any other? I assure you I’m not trying to insinuate a greater awareness or higher understanding. I’m no genius. In fact, I know there are many out there who would likely tell you I’m not particularly smart.
 
 ---
-![Mark Twain, God's Fool](https://walkercraig.github.io/assets/images/posts/2018/MarkTwain_GodsFool.jpg#wide)
-
+{% include image-caption.html imageurl="/assets/images/posts/2018/MarkTwain_GodsFool.jpg" title="God's Fool" %}
 ---
 
 All I’m trying to offer is a view. A view for you to consider and a view you’re welcome to take and use as a talking point when you go out into the world and step into the ring of debate. Another tool in your talk toolbox. Another weapon in your argument arsenal.
@@ -165,5 +164,9 @@ This newsletter, along with some other things I have planned in the future, is p
 Last chance.
 
 If I’m being entirely honest, the truth is, I felt that I should make you aware, I'm goin' to pick a fight.
+
+---
+{% include image-caption.html imageurl="/assets/images/posts/2018/braveheartpickafight.gif" title="I'm goin' to pick a fight..." %}
+---
 
 <br/>
