@@ -52,7 +52,7 @@
 }
 
 .post-share-title {
-  color: $gray-darkest;
+  color: $gray-lighter;
   display: inline-block;
   font-weight: 600;
   margin-right: 10px;
@@ -109,7 +109,7 @@
 .comments-title,
 .read-next-title,
 .tagcloud-title {
-  color: $gray-dark;
+  color: $gray-light;
   font-family: $font-secondary;
   font-size: 0.77778rem;
   font-weight: normal;
@@ -133,7 +133,7 @@
 }
 
 .post-feed .post {
-  border-bottom: 1px solid $gray-lighter;
+  border-bottom: 1px solid $gray-light;
 }
 
 .post-feed .post-header {
@@ -156,7 +156,7 @@
 
 .tag-top-link,
 .tagcloud a {
-  border: 1px solid $gray-lighter;
+  border: 1px solid $gray-dark;
   display: inline-block;
   font-size: 0.77778rem;
   line-height: 1.5;
@@ -176,7 +176,7 @@
 }
 
 .tagcloud a:hover {
-  background: $color-accent;
+  background: $gray-lighter;
   color: #fff;
 }
 
@@ -190,11 +190,11 @@ ul.archive-posts-list {
 
 /* Newsletter */
 .newsletter-box {
-  border: 1px solid $gray-lighter;
+  border: 0px solid $gray-dark;
   box-sizing: border-box;
   margin-bottom: 3.33333em;
   margin-top: 3.33333em;
-  padding: 1.66667em;
+  padding: 0px;
 }
 
 .newsletter-box-title {
@@ -223,7 +223,7 @@ ul.archive-posts-list {
 
 /* Error pages */
 .error-template {
-  background-color: $gray-darkest;
+  background-color: $gray-light;
   color: $gray-light;
 }
 
@@ -267,7 +267,7 @@ ul.archive-posts-list {
 }
 
 .error-link:hover {
-  color: $gray-light;
+  color: $gray-lighter;
 }
 
 /* Hero section */
@@ -285,7 +285,7 @@ ul.archive-posts-list {
 }
 
 .hero-text {
-  color: $gray-darkest;
+  color: $gray-light;
   font-family: $font-secondary;
   font-size: 1.66667rem;
   line-height: 1.2;
