@@ -3,7 +3,7 @@
  * ----------------------------------------------------------------------------
  */
 .site-header {
-  background: #fff;
+  background: #000;
   color: #fff;
 }
 
@@ -31,7 +31,7 @@
 
 .site-logo a,
 .profile a {
-  color: $gray-darkest;
+  color: #fff;
 }
 
 .site-logo img {
@@ -47,20 +47,23 @@
 }
 
 .site-title {
-  font-family: 'Sorts Mill Goudy', serif;
-  font-size: 1rem;
-  font-weight: 500;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1rem !important;
+  font-weight: 700;
   line-height: 1;
   margin: 4px 0 0 0 !important;
+  letter-spacing: 2px !important;
+  text-transform: uppercase;
+  color: #fff !important;
 }
 
 .site-title a {
-  color: $gray-darkest;
+  color: #fff !important;
   text-decoration: none;
 }
 
 .site-description {
-  color: $gray;
+  color: $gray-light;
   font-family: $font-secondary;
   font-weight: normal;
   font-size: 0.625rem;
@@ -72,7 +75,7 @@
 
 #menu-toggle {
   background-color: transparent;
-  color: $gray-darkest;
+  color: $gray-light;
   height: 30px;
   margin-left: auto;
   padding: 0;
@@ -82,7 +85,7 @@
 }
 
 .site-navigation {
-  background: #fff;
+  background: #000;
   font-family: $font-secondary;
   bottom: 0;
   box-sizing: border-box;
@@ -109,7 +112,7 @@
 }
 
 .menu {
-  border-bottom: 1px solid $gray-lighter;
+  border-bottom: 1px solid #171717;
   font-size: 0.77778rem;
   line-height: 1.5;
   letter-spacing: 0.15em;
@@ -120,12 +123,12 @@
 }
 
 .menu-item {
-  border-top: 1px solid $gray-lighter;
+  border-top: 1px solid #171717;
   padding: 0.5em 0;
 }
 
 .menu-item a {
-  color: $gray;
+  color: $gray-light;
   text-decoration: none;
 }
 
@@ -168,5 +171,5 @@ a[href$="/rss/"] svg {
 .social-links a:hover,
 .menu-item a:hover,
 .current-menu-item a {
-  color: $color-accent;
+  color: $gray-lighter;
 }
