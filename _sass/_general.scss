@@ -10,20 +10,20 @@ html {
 }
 
 body {
-  background: #fff;
-  color: $gray;
+  background: #000;
+  color: #aaa;
   line-height: 1.66667;
 }
 
 a {
-  color: $color-accent;
+  color: $gray-lighter;
   text-decoration: underline;
   -webkit-transition: background .3s ease, color .3s ease;
   transition: background .3s ease, color .3s ease;
 }
 
 a:hover {
-  color: $gray-darkest;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -33,7 +33,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: $gray-darkest;
+  color: $gray-lighter;
   font-family: $font-secondary;
   font-weight: 600;
   line-height: 1.2;
@@ -118,7 +118,7 @@ pre code {
 }
 
 blockquote {
-  color: $gray-darkest;
+  color: $gray-lighter;
   font-family: 'Sorts Mill Goudy', serif;
   font-size: 2rem;
   line-height: 1.25;
@@ -185,7 +185,7 @@ li > ol {
 }
 
 hr {
-  background-color: $gray-lighter;
+  background-color: #171717;
   border: 0;
   height: 1px;
   margin: 1.66667em 0;
@@ -200,7 +200,7 @@ table {
 }
 
 caption {
-  color: $gray;
+  color: $gray-light;
   font-size: 0.875em;
   font-style: normal;
   margin-bottom: 1em;
@@ -209,7 +209,7 @@ caption {
 
 th,
 td {
-  border-bottom: 1px solid $gray-lighter;
+  border-bottom: 1px solid $gray-dark;
   padding: 0.5em 5px;
 }
 
@@ -220,7 +220,7 @@ th {
 
 /* Form fields */
 label {
-  color: $gray-darkest;
+  color: $gray-light;
   font-size: 0.88889rem;
   font-weight: bold;
 }
@@ -267,7 +267,7 @@ input[type="submit"],
 input[type="button"],
 input[type="reset"],
 a.button {
-  background: $gray-darkest;
+  background: $gray;
   border: 0;
   box-sizing: border-box;
   color: #fff;
@@ -295,7 +295,7 @@ input[type="reset"]:focus,
 input[type="reset"]:active,
 a.button:hover,
 a.button:focus {
-  background: $color-accent;
+  background: $gray-lighter;
   outline: 0;
 }
 
@@ -405,7 +405,7 @@ img {
 }
 
 .kg-card figcaption {
-  color: $gray;
+  color: $gray-light;
   font-size: 0.77778rem;
   padding-top: 0.5em;
   text-align: left;
@@ -826,9 +826,9 @@ body.hidden-scroll {
 }
 
 .contact-form {
-  border: 1px solid $gray-lighter;
+  border: 0px solid $gray-darkest;
   border-radius: 3px;
   box-sizing: border-box;
   margin-bottom: 3.33333em;
-  padding: 35px 30px 45px;
+  padding: 0px;
 }
