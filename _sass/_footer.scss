@@ -3,7 +3,7 @@
  * ----------------------------------------------------------------------------
  */
 .site-footer {
-  border-top: 1px solid $gray-lighter;
+  border-top: 1px solid #171717;
   padding-top: 2.5em;
 }
 
@@ -13,6 +13,7 @@
   line-height: 1.5;
   margin-bottom: 0;
   text-transform: uppercase;
+  color: #666 !important;
 }
 
 .site-info a {
@@ -32,7 +33,7 @@
 }
 
 .back-to-top:hover {
-  color: $color-accent;
+  color: $gray-lighter;
 }
 
 .back-to-top:focus {
