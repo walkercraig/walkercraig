@@ -92,9 +92,9 @@ I, the Son of all who've fought
 
 I, the Sum of all they've wrought
 
-I, the Father of all to come
-
 I, the Author of all to some
+
+I, the Father of all to come
 
 <br/>
 
