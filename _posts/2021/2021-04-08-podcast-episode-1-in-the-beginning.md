@@ -14,6 +14,8 @@ You can listen to the first episode of Craig's podcast on the following platform
 
 <h3><a href="https://open.spotify.com/episode/1H5TElVwojcpp5uHb2PyNc?si=l_1SRp4RSCeQrR6sHNmoaQ">Spotify</a></h3>
 
+---
+
 To get the RSS feed for your own personal player, you can find it at the link below.
 
 <h3><a href="https://anchor.fm/s/11537d28/podcast/rss">RSS</a></h3>
