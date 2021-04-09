@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: [ Listen ]
-title: Podcast Episode 1 In the Beginning...
+title: Podcast. Episode #1. In the Beginning...
 ---
 
 All the cool kids are doing it so it was only a matter of time before Craig did, too. It was time for Craig to start a podcast.
