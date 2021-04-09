@@ -16,6 +16,10 @@ You can listen to the second episode of Craig's podcast on the following platfor
 
 <h3><a href="https://open.spotify.com/episode/0YkB4YTeHD9jc1C58wypwQ?si=GWwSoHYSTjaMEbDme-jHFw">Spotify</a></h3>
 
+<h3><a href="https://pca.st/episode/e04fe6a5-31d2-4d86-a66e-82900ac5b5fe">Pocket Casts</a></h3>
+
+---
+
 To get the RSS feed for your own personal player, you can find it at the link below.
 
 <h3><a href="https://anchor.fm/s/11537d28/podcast/rss">RSS</a></h3>
