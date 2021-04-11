@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: [ Listen ]
-title: Podcast. Episode 2. Small Moves.
+title: Craig Walker Show. Episode 2. Small Moves.
 ---
 
 To help get more content up on his podcast feed more quickly, Craig begins by revisiting some of his letters and recording them.<br><br/>
