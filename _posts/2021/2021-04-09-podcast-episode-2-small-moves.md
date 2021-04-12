@@ -16,6 +16,8 @@ You can listen to the second episode of Craig's podcast on the following platfor
 
 <h3><a href="https://open.spotify.com/episode/0YkB4YTeHD9jc1C58wypwQ?si=GWwSoHYSTjaMEbDme-jHFw">Spotify</a></h3>
 
+<h3><a href="https://podcasts.apple.com/us/podcast/small-moves/id1562356270?i=1000516454274">Apple Podcasts</a></h3>
+
 <h3><a href="https://pca.st/episode/e04fe6a5-31d2-4d86-a66e-82900ac5b5fe">Pocket Casts</a></h3>
 
 ---
