@@ -12,13 +12,21 @@ As a reminder, in this letter Craig does his best to explain what he hopes his n
 
 You can listen to the second episode of Craig's podcast on the following platforms:
 
-<h3><a href="https://anchor.fm/craigwalker/episodes/Small-Moves-euhnh1">Anchor.fm</a></h3>
+<h3><a href="https://anchor.fm/craigwalker">Anchor.fm</a></h3>
 
-<h3><a href="https://open.spotify.com/episode/0YkB4YTeHD9jc1C58wypwQ?si=GWwSoHYSTjaMEbDme-jHFw">Spotify</a></h3>
+<h3><a href="https://open.spotify.com/show/7bwVbDZUEjcRHe8Jbo7LJL">Spotify</a></h3>
 
-<h3><a href="https://podcasts.apple.com/us/podcast/small-moves/id1562356270?i=1000516454274">Apple Podcasts</a></h3>
+<h3><a href="https://podcasts.apple.com/us/podcast/craig-walker/id1562356270">Apple Podcasts</a></h3>
 
-<h3><a href="https://pca.st/episode/e04fe6a5-31d2-4d86-a66e-82900ac5b5fe">Pocket Casts</a></h3>
+<h3><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMTUzN2QyOC9wb2RjYXN0L3Jzcw==">Google Podcasts</a></h3>
+
+<h3><a href="https://overcast.fm/itunes1562356270">Overcast</a></h3>
+
+<h3><a href="https://pca.st/dddyj1dx">Pocket Casts</a></h3>
+
+<h3><a href="https://radiopublic.com/craig-walker-8Xn9Zj">RadioPublic</a></h3>
+
+<h3><a href="https://www.breaker.audio/craig-walker">Breaker</a></h3>
 
 ---
 
