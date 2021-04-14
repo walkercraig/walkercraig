@@ -8,11 +8,23 @@ All the cool kids are doing it so it was only a matter of time before Craig did,
 
 ---
 
-You can listen to the first episode of Craig's podcast on the following platforms:
+You can listen to the second episode of Craig's podcast on the following platforms:
 
-<h3><a href="https://anchor.fm/craigwalker/episodes/In-the-Beginning-euf9q5">Anchor.fm</a></h3>
+<h3><a href="https://anchor.fm/craigwalker">Anchor.fm</a></h3>
 
-<h3><a href="https://open.spotify.com/episode/1H5TElVwojcpp5uHb2PyNc?si=l_1SRp4RSCeQrR6sHNmoaQ">Spotify</a></h3>
+<h3><a href="https://open.spotify.com/show/7bwVbDZUEjcRHe8Jbo7LJL">Spotify</a></h3>
+
+<h3><a href="https://podcasts.apple.com/us/podcast/craig-walker/id1562356270">Apple Podcasts</a></h3>
+
+<h3><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMTUzN2QyOC9wb2RjYXN0L3Jzcw==">Google Podcasts</a></h3>
+
+<h3><a href="https://overcast.fm/itunes1562356270">Overcast</a></h3>
+
+<h3><a href="https://pca.st/dddyj1dx">Pocket Casts</a></h3>
+
+<h3><a href="https://radiopublic.com/craig-walker-8Xn9Zj">RadioPublic</a></h3>
+
+<h3><a href="https://www.breaker.audio/craig-walker">Breaker</a></h3>
 
 ---
 
