@@ -10,7 +10,7 @@ Honeybees suckle on the tapped out tulips
 
 Sunflower petals start to wane
 
-Children rush beside and almost trip upon a stone
+Children rush beside and almost trip upon the stone
 
 Mothers cry out fearful of the stain
 
@@ -32,9 +32,9 @@ And tease they're all a bunch of blissful debutantes
 
 Late we stay, deep into the dusk
 
-The crickets weep in tune within the willows
+The crickets weep in tune under the willows
 
-Swimming in fireflies that try to match the music of the stars
+Swimming in fireflies that match the music of the stars
 
 As the Maestro holds the rhythm of le Grande Composè
 
@@ -60,13 +60,13 @@ Upon all things on all the ærth
 
 On all souls wrapped in their cocoon
 
-Our dancing breath must reflect some unknown process of being
+Our dancing breath must reflect some unknown writ of being
 
 On the other side of Time's last swoon
 
 From no where and from everywhere
 
-I could almost feel my body begin to release all wrong
+My body began to release all wrong
 
 In the stillness of that long kiss good night
 
