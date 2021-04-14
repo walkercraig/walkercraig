@@ -1,12 +1,12 @@
 ---
 layout: post
 tag: [ Listen ]
-title: Craig Walker Show. Episode 3. For Auld Lang Syne.
+title: Craig Walker Show. Episode 2. Small Moves.
 ---
 
-Since he first wrote this letter, Craig decided to turn it into an annual column. This is the original and we're excited to see how it will change over the years.<br></br>
+To help get more content up on his podcast feed more quickly, Craig begins by revisiting some of his letters and recording them.<br><br/>
 
-To refresh, Craig had a song stuck in his head and needed to do what he could to stop thinking about it, so he wrote some thoughts on the classic Robert Burns poem and folk traditional song, “Auld Lang Syne.” Other topics Craig covers in this letter include the New Year holiday, Christmas, nostalgia as a sentiment and Nostalgia™ as a prescription drug, Owen Wilson and the completely ridiculous and over-the-top fantastic Michael Bay popcorn movie classic, Armageddon, and William Shakespeare.
+As a reminder, in this letter Craig does his best to explain what he hopes his new newsletter will eventually become and he revisits the foundations of the internet itself and relates the development of email to help with the metaphor. He further touches on the narcissism of “outrage culture”, the Yoruba people’s trickster God, Eshu, objectivity vs. subjectivity, the Atlanta hip-hop duo known as Tag Team, intellectual curiosity, Mark Twain, accepting personal challenges, and even the 1997 science fiction drama film, Contact, starring Jodie Foster and Matthew McConaughey.
 
 ---
 
