@@ -10,7 +10,7 @@ The Chicago Journal is a general interest, digital publication focused on the po
 
 ---
 
-You can listen to the the Chicago Journal Podcast on the following platforms:
+You can listen to the Chicago Journal Podcast on the following platforms:
 
 <h3><a href="https://anchor.fm/chicagojournal">Anchor.fm</a></h3>
 
