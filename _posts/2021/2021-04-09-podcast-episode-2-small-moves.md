@@ -24,6 +24,8 @@ You can listen to the second episode of Craig's podcast on the following platfor
 
 <h3><a href="https://pca.st/dddyj1dx">Pocket Casts</a></h3>
 
+<h3><a href="https://castbox.fm/channel/Craig-Walker-id4038385">Castbox</a></h3>
+
 <h3><a href="https://radiopublic.com/craig-walker-8Xn9Zj">RadioPublic</a></h3>
 
 <h3><a href="https://www.breaker.audio/craig-walker">Breaker</a></h3>
