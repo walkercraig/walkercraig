@@ -4,7 +4,7 @@ tag: [ Listen ]
 title: Chicago Journal Podcast. Trailer.
 ---
 
-<p>This is the trailer for the new Chicago Journal Podcast.<br>
+<p>This is the trailer for the new Chicago Journal Podcast.<br/>
 
 The Chicago Journal is a general interest, digital publication focused on the political and cultural issues of the city of Chicago and the surrounding metro area.</p>
 
