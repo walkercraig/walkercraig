@@ -1,10 +1,10 @@
 ---
 layout: post
 tag: [ Listen ]
-title: Chicago Journal Podcast. Trailer.
+title: Chicago Journal Podcast. Teaser.
 ---
 
-<p>This is the trailer for the new Chicago Journal Podcast.<br><br/>
+<p>This is the teaser for the new Chicago Journal Podcast.<br><br/>
 
 The Chicago Journal is a general interest, digital publication focused on the political and cultural issues of the city of Chicago and the surrounding metro area.</p>
 
