@@ -26,6 +26,8 @@ You can listen to the Chicago Journal Podcast on the following platforms:
 
 <h3><a href="https://radiopublic.com/chicago-journal-WopLnO">RadioPublic</a></h3>
 
+<h3><a href="https://castbox.fm/channel/Chicago-Journal-id4047182">Castbox</a></h3>
+
 <h3><a href="https://www.breaker.audio/craig-walker">Breaker</a></h3>
 
 ---
