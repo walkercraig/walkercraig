@@ -18,6 +18,10 @@ You can listen to the Chicago Journal Podcast on the following platforms:
 
 <h3><a href="https://podcasts.apple.com/us/podcast/craig-walker/id1562356270">Apple Podcasts</a></h3>
 
+<h3><a href="https://music.amazon.com/podcasts/d772be15-b2ae-45de-b5b8-b7c68b077558/Chicago-Journal">Amazon Music</a></h3>
+
+<h3><a href="https://www.audible.com/pd/Podcast/B08K586Q2P">Audible</a></h3>
+
 <h3><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMTUzOTZmMC9wb2RjYXN0L3Jzcw==">Google Podcasts</a></h3>
 
 <h3><a href="https://overcast.fm/itunes1562356270">Overcast</a></h3>
