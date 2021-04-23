@@ -18,7 +18,7 @@ You can listen to the second episode of Craig's podcast on the following platfor
 
 <h3><a href="https://podcasts.apple.com/us/podcast/craig-walker/id1562356270">Apple Podcasts</a></h3>
 
-<h3><a href="https://music.amazon.com/podcasts/53a0e5b2-a0a7-4320-8e7b-e26fb7a5572b">Amazon Music</a></h3>
+<h3><a href="https://music.amazon.com/podcasts/53a0e5b2-a0a7-4320-8e7b-e26fb7a5572b/Craig-Walker">Amazon Music</a></h3>
 
 <h3><a href="https://www.audible.com/pd/Podcast/B08JJPB6TS">Audible</a></h3>
 
