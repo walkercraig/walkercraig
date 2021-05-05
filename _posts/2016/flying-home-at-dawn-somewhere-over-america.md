@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flying Home at Dawn. Somewhere over America.
-tag: [ Photos ]
+tag: [ photos ]
 ---
 
 <br/>
