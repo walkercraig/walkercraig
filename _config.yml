@@ -41,6 +41,8 @@ navigation:
     url: /tags/index.html#Listen
   - text: Poems
     url: /tags/index.html#Poems
+  - text: Photos
+    url: /tags/index.html#Photos
   - text: Organizations
     url: /organizations
   - text: Contact
