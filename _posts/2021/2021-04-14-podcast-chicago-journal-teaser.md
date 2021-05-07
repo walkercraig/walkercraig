@@ -32,6 +32,8 @@ You can listen to the Chicago Journal Podcast on the following platforms:
 
 <h3><a href="https://castbox.fm/channel/Chicago-Journal-id4047182">Castbox</a></h3>
 
+<h3><a href="https://www.breaker.audio/chicago-journal">Breaker</a></h3>
+
 ---
 
 To get the RSS feed for your own personal player, you can find it at the link below.
