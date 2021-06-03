@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: [ Read ]
-title: A Day on the de Sable Riverwalk
+title: Lori Lightfoot Jumps the Shark
 ---
 
 Last Tuesday, after it was reported by several members of local media that Mayor Lori Lightfoot would only be granting 1-on-1 interviews to black or brown journalists, Craig didn't count himself among the surprised.
