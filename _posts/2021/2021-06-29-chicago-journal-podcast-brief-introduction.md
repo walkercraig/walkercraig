@@ -4,8 +4,8 @@ tag: [ Listen ]
 title: Chicago Journal Podcast. Brief Introduction.
 ---
 
-<p>On this episode, we give a brief introduction on the Chicago Journal and what we're trying to do with this podcast. We could talk about the topic for hours but we know you have much better podcasts in your queue with a lot more money behind them and with much more famous people than we are.<br>
-Who knows? Maybe some day we'll turn these into epic 3 and 4 hours conversations with highly produced segments but, for now, we don't want to keep you too long.</p>
+<p>On this episode, we give a brief introduction on the Chicago Journal and what we're trying to do with this podcast. We could talk about the topic for hours but we know you have much better podcasts in your queue with a lot more money behind them and with much more famous people than we are.</p>
+<p>Who knows? Maybe some day we'll turn these into epic 3 and 4 hours conversations with highly produced segments but, for now, we don't want to keep you too long.</p>
 
 ---
 
