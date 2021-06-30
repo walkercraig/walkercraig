@@ -78,7 +78,7 @@ Where he has found the fire of life
 
 His life, of Life, itself
 
-Where he looks down, way down, below the aerth and soil from once he came
+Where he looks down, way down, below the ærth and soil from once he came
 
 And his eyes follow its path upward passed the filth of the pipes and sewers and the humble streets of his hometown
 
@@ -112,7 +112,7 @@ And one day return forever
 
 Tell me, tell me, tell me a story, boy
 
-Please, tell me of Haeven
+Please, tell me of Hæven
 
 For yours are the Words of God
 
