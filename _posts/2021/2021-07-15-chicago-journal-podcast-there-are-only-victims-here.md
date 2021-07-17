@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: [ Listen ]
-title: Chicago Journal Podcast. Brief Introduction.
+title: Chicago Journal Podcast. There Are Only Victims Here.
 ---
 
 <p>On this episode of the Chicago Journal podcast, Craig revisits something he wrote back in April after the Adam Toledo officer involved shooting in the Little Village neighborhood and he discusses the violence and it's relationship to the victimhood of Chicago leadership.</p>
