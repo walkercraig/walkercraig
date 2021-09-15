@@ -116,6 +116,8 @@ Then, after some sudden realization within seemed to wash over her, she audibly 
 
 She looked at us again and, as she fought back tears, she said, "Oh God...you're all going to war..."
 
+---
+
 I did not personally know anyone who died in the attacks. Classmates and school staff did. Neighbors in our town did.
 
 An uncle here. A cousin there. Someone's Dad's friend from college. A former colleague. A friend of a family who they met at a New Year's party once. Many had family who worked and lived downtown Chicago at or near the Sears Tower and other landmarks that, in the immediate aftermath, rumors quickly spread that they were thought to be potential targets.
