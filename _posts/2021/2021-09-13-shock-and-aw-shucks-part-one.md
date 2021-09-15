@@ -4,7 +4,9 @@ tag: [ Letters ]
 title: Shock & Aw Shucks. Part One.
 ---
 
-Craig first tried to write something about the events on September 11, 2001 about three years ago. He quickly realized that any genuine meditation on the subject matter would require much, much more depth. Especially when viewed from a present so far removed from the catalyst of such thoughts. With the 20th Anniversary of the event, he decided it was time to revisit and take a look at the last 20 years of American foreign policy.
+Craig first tried to write something about the events on September 11, 2001 about three years ago. He quickly realized that any genuine meditation on the subject matter would require much, much more depth. Especially when viewed from a present so far removed from the catalyst of such thoughts. 
+
+With the 20th Anniversary of the event, he decided it was time to revisit and take a look at the last 20 years of American foreign policy.
 
 ---
 
