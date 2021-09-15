@@ -168,7 +168,7 @@ Few choose to remember the concurrent concerns of what was coming next.
 
 Would there be more attacks? What are the potential targets? Every plane overhead became suspect. What is jihad? The terrorists could be anywhere. I'm sure you've seen the various compilations of late night talk shows where comedians struggled with how to make people laugh again. How do we respond? How do we secure the continental United States from this new type of threat?
 
-In those moments, no one really knew quite what to do beyond channeling their inner Churchill and keep going.
+In those moments, no one really knew quite what to do beyond channeling their inner Churchill and keep going. In those moments, it was all anyone really could do.
 
 Fewer still remember the anthrax letters that started on September 18th. Originating from a mailbox in New Jersey, anthrax bacterium was deliberately sent to major media organizations and the Senate offices of Tom Daschle and Patrick Leahy. The near pure spores of these samples would kill five people and infect another seventeen at various points on the routes the letters traveled.
 
