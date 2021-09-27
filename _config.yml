@@ -33,14 +33,16 @@ navigation:
     url: /about
   - text: Letters
     url: /tags/index.html#Letters
+  - text: Poems
+    url: /tags/index.html#Poems
   - text: Read
     url: /tags/index.html#Read
   - text: Watch
     url: /tags/index.html#Watch
   - text: Listen
     url: /tags/index.html#Listen
-  - text: Poems
-    url: /tags/index.html#Poems
+  - text: Photos
+    url: instagram.com/wlkrcrg
   - text: Organizations
     url: /organizations
   - text: Contact
