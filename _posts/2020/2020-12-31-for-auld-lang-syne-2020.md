@@ -18,17 +18,17 @@ At the start of 2020, he was feeling great. The economy was good and his retirem
 
 We all know what happened next. 
 
-The wedding and the baby showers were canceled. Same with the birthing classes. And then the dinners and the weddings and the honeymoons. Visiting family members and loved ones was discouraged and, in many cases of the elderly, also canceled. And then the schools and the sports and the theatre and the music and the movies and the reunions and the churches and the restaurants and the ladies nights at the bars and the small businesses and the pretty much whatever else you can think of was canceled.
+The baby showers were canceled. Same with the birthing classes. And then the dinners and the weddings and the honeymoons. Visiting family members and loved ones was discouraged and, in many cases of the elderly, also canceled. And then the schools and the sports and the theatre and the music and the movies and the reunions and the churches and the restaurants and the ladies nights at the bars and the small businesses and the pretty much whatever else you can think of was canceled.
 
 Our family did the best we could celebrating my sister and her new husband with immediate family in a make-shift ceremony in her apartment. Despite briefly losing my day job and my wife's business being temporarily shut down halfway through her pregnancy and the uncertainty over what was going to happen next and the worries over the effects on the baby, we all powered through. 
 
 Fortunately, my employer figured out how to get by and I worked through the lockdowns. And even though I wasn't allowed to go with my wife to her doctor appointments and we couldn't really see as many people as we would have liked or celebrated with family and friends to share in our immediate joy, we considered ourselves lucky to have spent a secluded 3 days in the hospital delivering a healthy baby boy.
 
-Dad didn't agree with most of the government mandated restrictions and, quite frankly, neither did I. God forbid he expressed that view publicly...or should I say, Science forbid? We'd darkly joke that once we started joking about it and making fun of it, the COVID monster would hear us and come for us.
+Dad didn't agree with most of the government mandated restrictions and, quite frankly, neither did I. God forbid we expressed that view publicly...or should I say, Science forbid? We'd darkly joke that once we started joking about it and making fun of it, the invisible COVID monster would hear us and come for us.
 
-So he and we abided. Begrudgingly, but we abided. Yes, we wore our masks and we socially distanced and we washed our hands as the infinitely wise Dr. Arwady and Dr. Ezike told all the good little boys and girls of Illinois to do if they wanted a treat and wanted Santa to come. Yes, we abided the requirements as best we could even if it meant that, rather than walk his daughter down the aisle, Dad walked her from her apartment bedroom to the apartment living room. Yes, we abided, even if that meant Dad didn't get to see his first grandson as much as he would have wanted and show him off to family and friends and all around town and, trust me, he would have wanted to every minute of every day.
+So he and we abided. Begrudgingly, but we abided. Yes, we wore our masks and we socially distanced and we washed our hands as the infinitely wise Dr. Arwady and Dr. Ezike told all the good little boys and girls of Illinois to do if they wanted a treat and wanted Santa to come. We abided the requirements even if it meant that, rather than walk his daughter down the aisle, Dad walked her from her apartment bedroom to the apartment living room. Yes, we abided, even if that meant Dad didn't get to see his first grandson as much as he would have wanted and show him off to family and friends and all around town and, trust me, he would have wanted to every minute of every day.
 
-As I alluded above, Dad was never the type to worry his family over things that were bothering him. That was extra true this year with some of his children preparing for some of life's biggest events and the last thing he was going to do was not abide the requirements and put his kids or those events in jeopardy.
+As I alluded above, Dad was never the type to worry his family over things that were bothering him. That was extra true this year with some of his children preparing for some of life's biggest events and the last thing he was going to do was put his kid's major life events in jeopardy.
 
 So, until the hospital visit that first week of October, Dad hadn't really mentioned to anyone in the family that he hadn't been feeling great since the spring. There was a brief moment at the end of the summer where he mentioned he thought his eczema was flaring up again and he was checking into that. He was a little tired but, hey, who was he to complain? None of us had been feeling great with all of *this* in our lives.
 
@@ -36,13 +36,19 @@ I should probably mention that Dad didn't die of COVID.
 
 His official cause of death was renal failure. For those who don't want to search, his kidneys gave out. We'd find out toward the end, kidney failure can cause a similar type of itch to the aforementioned eczema.
 
-I don't blame his doctors and I don't blame my Dad. He'd known his general practitioner for decades and he mostly wouldn't have wanted to bother him and get in his way while they were trying to deal with whatever it is this was or will ultimately turn out to be. In case you forgot, it's a sad truth to life that death is coming for us all and there are other health problems that exist.
+I don't blame his doctors and I don't blame my Dad. He'd known his general practitioner for decades and he mostly wouldn't have wanted to bother him and get in his way while they were trying to deal with whatever it is this was or will ultimately turn out to be. 
 
-Would Dad have gone to the hospital sooner or pushed to see his general practitioner about how he was feeling sooner if there were not mandated lockdowns? If everything he saw on television and the internet were not filled with fear porn about an invisible monster coming to terrorize and ravage our families? If everywhere he went he didn't encounter terrified people suddenly forced into a stark confrontation with the reality of their impending death? I don't know. I doubt it, if I'm being honest. He could be a stubborn bastard.
+In case you forgot, it's a sad truth to life that death is coming for us all and there are other health problems that exist. And, in case you forgot, without that sad truth, none of us would know the sweet.
 
-I admit I'm sad and angry that this was the last year he got to experience but I am keenly aware that not everyone is given as much as he was. I mostly just miss my Dad.
+Would Dad have gone to the hospital sooner or pushed to see his general practitioner about how he was feeling sooner if there were not mandated lockdowns? If everything he saw on television and the internet were not filled with fear porn about an invisible monster coming to terrorize and ravage our families? If everywhere he went he didn't encounter terrified people suddenly forced into a stark confrontation with the reality of their impending death?
 
-But this is not an elegy. I did write something about him and there's a lot more within myself than anything I could ever fully put down on paper. In any case, what I have to say about him and how I felt about him is for me, him, and God alone.
+I don't know. I doubt it, if I'm being honest. He could be a stubborn bastard.
+
+I want to be clear this is not an elegy. I did write something about him and there's a lot more within myself than I could ever fully put down on paper. In any case, what I have to say about him and how I felt about him is for me, him, and God alone.
+
+I am keenly aware that not everyone is given as much as he was. Still, I admit I'm sad and angry that this was the last year he got to experience. 
+
+I mostly just miss my Dad.
 
 This opener is just to provide you some context. To try to briefly explain where I've been and why I've decided to start this annual New Year's column. Going forward, I'm not sure if I'll publish it on New Year's Eve or New Year's Day, but I'm going to try and rewrite this same piece every New Year's. 
 
