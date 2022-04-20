@@ -8,6 +8,10 @@ In this letter, Craig discusses his theory on why there are so few examples of W
 
 ---
 
+**Author's Note**: *An anonymous reader must have stumbled onto this page and they proceeded to email me to chastise and critique my alleged incorrigibility, gullibility, and naïveté. Despite what I wrote below and despite trying to more than insinuate at the beginning and at the end that I, too, have significant doubts about the authorship of the plays, this person did not seem to be in on the joke. Though I do appreciate their commitment to their gospel and to its spread even to the smallest of nooks and crannies of the internet, I promised I would revisit and deliver my true beliefs regarding the matter so there would be any confusion. To be fair to the historical record, I will leave the below theory as I wrote it online, but I will do so in a follow-up soon.*
+
+---
+
 After Harold Bloom, the notorious American literary critic and Sterling Professor of Humanities at Yale University, passed away in the fall of 2019 I found myself experiencing an odd sense of loss. Not because I had ever met the man, nor because I had studied under anyone who had studied under him, nor because I whole-heartedly agreed with every argument or pronouncement he'd ever made about literature. I had not and did not in any of the mentioned.
 
 My odd sense of loss came because, love him or hate him, and there is reasonable defense for both, Bloom was someone in a highly prominent position with a unique ability to get literature lovers talking. No, he is not destined to be the last of his kind, but to a certain person of my age and comparatively modest level of literature appreciation, I marveled at his pure passion for words and that passion inspired me to read and write with more of my own. Regardless of how anyone felt about his opinions on literature and all that surrounds it, there was no doubt about his unashamed love for it and, at a certain moment in my life, that passion for the enduring power of story spoke to my sensibilities.
