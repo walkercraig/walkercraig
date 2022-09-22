@@ -26,7 +26,7 @@ Not since Alexander
 
 Not since Abd-Al-Rahman
 
-Not since Napoleon, Barbarossa, nor Lucifer has such Sin been so on parade
+Not since Napoleon, Barbarossa, nor Lucifer has such Sin been so parade
 
 But with this
 
