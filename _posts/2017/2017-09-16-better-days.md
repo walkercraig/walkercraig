@@ -28,7 +28,7 @@ Like such a waste
 
 Like a young girl
 
-Who lost the chaste
+Who gave away her chaste
 
 I don't mean
 
