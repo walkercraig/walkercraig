@@ -4,7 +4,7 @@ tag: [ Poems ]
 title: As Long As I Have Faith
 ---
 
-*An excerpt from a song I wrote for my daughter.*
+*An excerpt from a song for my daughter.*
 
 <br/>
 
