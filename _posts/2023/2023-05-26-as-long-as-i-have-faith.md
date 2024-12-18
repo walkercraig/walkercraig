@@ -22,7 +22,7 @@ Your Peace is my command
 
 For as long as songs and stories
 
-Live in the hearts of man
+Live in the hearts of Man
 
 <br/>
 
