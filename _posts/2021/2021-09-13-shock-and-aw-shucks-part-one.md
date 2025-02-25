@@ -188,14 +188,10 @@ As we ran laps around the soccer field, we had no idea what was happening with t
 
 It was Mickey, by the way. He was our starting goalie and had the strongest leg on the team, in case you were wondering. Jamie was the best dancer on the dance team, though that could have been because she smiled at me that day.
 
-As we prepared to play our rivals and figure out our plans for the weekend, so, too, prepared the war machine.[^1]
+As we prepared to play our rivals and figure out our plans for the weekend, so, too, prepared the war machine.
 
 ## October, 2001 and the Patriot Act
 
 **To be continued...**
 
 ---
-
-### Notes & References
-
-[^1]: This is a test. 
