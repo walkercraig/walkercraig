@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: [ Read ]
-title: On Being an American in 2025
+title: Let's Go, Brandon!
 ---
 
 Contributor Wink Swindell cheers the Mayor's 6.6% approval crash, his $830M bond spree, and sanctuary city bravado. He urges the mayor to go all-in, ignore fleeing business and debt, and embrace a raucous spiral into the People's Republic of Chicago's glorious unknown. As long as he gets a piece...
