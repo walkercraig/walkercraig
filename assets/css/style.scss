@@ -21,6 +21,22 @@
  * 6. Media Queries
 */
 
+:root {
+  --background-color: #ffffff; /* Light mode background */
+  --text-color: #000000;      /* Light mode text */
+  --link-color: #0000ff;      /* Light mode links */
+  /* Add more variables as needed, e.g., --header-bg, --button-color */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #000000; /* Dark mode background */
+    --text-color: #ffffff;      /* Dark mode text */
+    --link-color: #1e90ff;      /* Dark mode links */
+    /* Adjust other variables for dark mode */
+  }
+}
+
 // Imports
 @import "variables";
 @import "reset";
