@@ -10,12 +10,16 @@ html {
 }
 
 body {
-  background-color: var(--background-color);
-  color: var(--text-color);
+  background: #111;
+  color: #aaa;
+  line-height: 1.66667;
 }
 
 a {
-  color: var(--link-color);
+  color: $gray-lighter;
+  text-decoration: underline;
+  -webkit-transition: background .3s ease, color .3s ease;
+  transition: background .3s ease, color .3s ease;
 }
 
 a:hover {
