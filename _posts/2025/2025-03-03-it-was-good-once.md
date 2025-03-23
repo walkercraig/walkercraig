@@ -4,8 +4,6 @@ tag: [ Poems ]
 title: It Was Good Once
 ---
 
-*An excerpt from a song for my daughter.*
-
 <br/>
 
 It was good once
