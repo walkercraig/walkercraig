@@ -1,5 +1,10 @@
-G   C   G   D
+---
+layout: post
+tag: [ Songs ]
+title: In the Eternal City
+---
 
+Verse:  G   C   G   D
 In the eternal city, where the pavement shine,
 And the street lamps all twinkle like the diamonds in the sky,
 There's a melody playing, in the silence of time,
@@ -10,8 +15,7 @@ Of cowards and courage, and smiles and tears,
 Of a tale in a glance, a poem in a sigh,
 And a toast in all glasses to the light in our eyes.
 
-C   G   Em  G   D
-
+Chorus:  C   G   Em  G   D
 Where the rivers they flow with the dreams in our minds,
 To the sea where all wishes and myths combine
 Where the fine yarns are woven, where the magic spins
