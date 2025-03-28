@@ -7,7 +7,7 @@ title: In the Eternal City
 Verse:  G   C   G   D
 <br/>
 In the eternal city, where the pavement shine,\
-And the street lamps all twinkle like the diamonds in the sky,\
+And the street lamps all twinkle like diamonds in the sky,\
 There's a melody playing, in the silence of time,\
 Sung from father to father to father to mine.\
 <br/>
