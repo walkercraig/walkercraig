@@ -9,7 +9,7 @@ Verse:  G   C   G   D
 In the eternal city, where the pavement shine,\
 And the street lamps all twinkle like the diamonds in the sky,\
 There's a melody playing, in the silence of time,\
-Sung from fathers to fathers to fathers to mine.\
+Sung from father to father to father to mine.\
 <br/>
 Oh, the song tells a story, of fortunes and fears,\
 Of cowards and courage, and smiles and tears,\
