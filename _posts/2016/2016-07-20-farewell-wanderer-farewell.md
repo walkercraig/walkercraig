@@ -36,6 +36,6 @@ I'll drift beneath the moonlight, chasing shadows of the sun.\
 <br/>
 And when the stars grow weary, and the night turns pale and thin,\
 I'll leave another station, let another road begin.\
-For the heart that's bound to wander knows that solace isn't far,\ 
+For the heart that's bound to wander knows that solace isn't far,\
 It lives within the journey, and the longing for the stars.\
 <br/>
