@@ -32,7 +32,8 @@ And it’ll be my home\
 That Old Chicago\
 Until the end of my time\
 <br/>
-Bridge
+(Bridge)
+<br/>
 <br/>
 Laid down with Miss Zippi\
 Got down and washed my feet\
