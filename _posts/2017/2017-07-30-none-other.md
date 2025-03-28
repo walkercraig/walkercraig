@@ -13,6 +13,7 @@ Another one who dreams the dreams I’ dream\
 <br/>
 And it’s all right (8x extended)
 <br/>
+<br/>
 I'll climb the mountains and cross the seas\
 I’ll be somethin’ or nothin’ it don’t matter to me\
 No matter where this journey leads\
