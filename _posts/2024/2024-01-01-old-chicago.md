@@ -35,6 +35,8 @@ Until the end of my time\
 (Bridge)
 <br/>
 <br/>
+Verse:  G   C   G   C   G   Em   D   C   G
+<br/>
 Laid down with Miss Zippi\
 Got down and washed my feet\
 In a clear purple mountain stream\
