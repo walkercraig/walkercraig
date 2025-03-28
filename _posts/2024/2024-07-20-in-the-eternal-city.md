@@ -23,6 +23,8 @@ To the sea where all wishes and myths combine\
 Where the fine yarns are woven, where the magic spins\
 The eternal city, where all streets begin\
 <br/>
+Verse:  G   C   G   D
+<br/>
 By the light of the tavern, where the spirits sing,\
 The laughter it echoes, and the walls they ring,\
 With a rhythm as old as the dawn and the spring,\
@@ -33,7 +35,14 @@ A call to the wanderers like the warmth of the flame,\
 No matter where from where no matter will be,\
 In the place where even our shadows run free,\
 <br/>
-Chorus
+Chorus:  C   G   Em  G   D
+<br/>
+Where the rivers they flow with the dreams in our minds,\
+To the sea where all wishes and myths combine\
+Where the fine yarns are woven, where the magic spins\
+The eternal city, where all streets begin\
+<br/>
+Verse:  G   C   G   D
 <br/>
 In the eternal city, where dreams never die,\
 Where there’s only good friends and there are no goodbyes,\
