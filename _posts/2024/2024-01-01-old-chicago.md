@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: [ Songs ]
-title: Simple Thing
+title: Old Chicago
 ---
 <br/>
 Verse:  G   C   G   C   G   Em   D   C   G
