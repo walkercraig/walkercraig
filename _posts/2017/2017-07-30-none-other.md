@@ -19,6 +19,7 @@ No matter where this journey leads\
 It’ll be mine and I’ll be free\
 <br/>
 Chorus: F  C  Am  D
+<br/>
 ‘Cause I know I’m go’n’ find my way\
 If it takes me forever and a day\
 Wherever I may roam, wherever I may lay\
@@ -32,6 +33,7 @@ See the world from a lonely seat\
 As long as my dream's inside of me\
 <br/>
 Chorus: F  C  Am  D
+<br/>
 ‘Cause I know I’m go’n’ find my way\
 If it takes me forever and a day\
 Wherever I may roam, wherever I may lay\
