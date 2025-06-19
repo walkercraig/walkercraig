@@ -3,8 +3,8 @@
  * ----------------------------------------------------------------------------
  */
 .site-header {
-  background: #111;
-  color: #fff;
+  background: #fff;
+  color: #1e1e1e;
 }
 
 .site-header-inside {
@@ -31,7 +31,7 @@
 
 .site-logo a,
 .profile a {
-  color: #fff;
+  color: #1e1e1e;
 }
 
 .site-logo img {
@@ -54,11 +54,11 @@
   margin: 1px 0 0 0 !important;
   letter-spacing: 2px !important;
   text-transform: uppercase;
-  color: #fff !important;
+  color: #1e1e1e;
 }
 
 .site-title a {
-  color: #fff !important;
+  color: #1e1e1e;
   text-decoration: none;
 }
 
@@ -85,7 +85,7 @@
 }
 
 .site-navigation {
-  background: #111;
+  background: #fff;
   font-family: $font-secondary;
   bottom: 0;
   box-sizing: border-box;
