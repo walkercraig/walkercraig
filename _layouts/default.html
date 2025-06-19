@@ -24,6 +24,7 @@
 
     <!-- CSS Styles -->
     <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/custom-theme.css' | relative_url }}">
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -54,7 +55,7 @@
     <script src="{{ site.baseurl }}/assets/js/jquery-3.3.1.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/plugins.js"></script>
     <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
-
+    <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
 </body>
 
 </html>
