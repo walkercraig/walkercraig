@@ -23,16 +23,16 @@
 
 :root {
   --background-color: #ffffff; /* Light mode background */
-  --text-color: #000000;      /* Light mode text */
-  --link-color: #0000ff;      /* Light mode links */
+  --text-color: #1e1e1e;      /* Light mode text */
+  --link-color: #1e73be;      /* Light mode links */
   /* Add more variables as needed, e.g., --header-bg, --button-color */
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --background-color: #000000; /* Dark mode background */
-    --text-color: #ffffff;      /* Dark mode text */
-    --link-color: #1e90ff;      /* Dark mode links */
+    --text-color: #e1e1e1;      /* Dark mode text */
+    --link-color: #1e73be;      /* Dark mode links */
     /* Adjust other variables for dark mode */
   }
 }
@@ -40,18 +40,18 @@
 /* Light theme (default) */
 :root {
   --bg: #fff;
-  --text: #222;
-  --sidebar-bg: #f7f7f7;
+  --text: #1e1e1e;
+  --sidebar-bg: #fff;
   --sidebar-text: #444;
   /* Add more variables as needed */
 }
 
 /* Dark theme overrides */
 [data-theme="dark"] {
-  --bg: #181818;
-  --text: #eee;
-  --sidebar-bg: #232323;
-  --sidebar-text: #eee;
+  --bg: #1e1e1e;
+  --text: #e1e1e1;
+  --sidebar-bg: #1e1e1e;
+  --sidebar-text: #e1e1e1;
 }
 
 /* Apply variables */
