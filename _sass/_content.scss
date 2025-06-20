@@ -32,7 +32,7 @@
 }
 
 .post-meta, .caption-text {
-  color: $gray-light;
+  color: $gray;
   font-size: 0.77778rem;
   letter-spacing: 1px;
   line-height: 1.5;
@@ -52,7 +52,7 @@
 }
 
 .post-share-title {
-  color: $gray-lighter;
+  color: $gray-light;
   display: inline-block;
   font-weight: 600;
   margin-right: 10px;
@@ -109,7 +109,7 @@
 .comments-title,
 .read-next-title,
 .tagcloud-title {
-  color: $gray-light;
+  color: $gray;
   font-family: $font-secondary;
   font-size: 0.77778rem;
   font-weight: normal;
