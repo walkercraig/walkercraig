@@ -23,7 +23,7 @@ a {
 }
 
 a:hover {
-  color: #aaa;
+  color: #1e73be;
   text-decoration: none;
 }
 
@@ -33,7 +33,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: $gray-lighter;
+  color: $gray-darkest;
   font-family: $font-secondary;
   font-weight: 600;
   line-height: 1.2;
@@ -118,7 +118,7 @@ pre code {
 }
 
 blockquote {
-  color: $gray-lighter;
+  color: $gray-darkest;
   font-family: 'Sorts Mill Goudy', serif;
   font-size: 2rem;
   line-height: 1.25;
@@ -151,7 +151,7 @@ blockquote p:last-child {
 
 blockquote small,
 blockquote cite {
-  color: $gray-light;
+  color: $gray-dark;
   display: block;
   font-family: 'Sorts Mill Goudy', serif;
   font-size: 0.5em;
@@ -185,7 +185,7 @@ li > ol {
 }
 
 hr {
-  background-color: #aaa;
+  background-color: #f1f1f1;
   border: 0;
   height: 1px;
   margin: 1.66667em 0;
