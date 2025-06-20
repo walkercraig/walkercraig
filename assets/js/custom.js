@@ -113,44 +113,6 @@
       ctx.stroke();
       ctx.closePath();
     }
-
-    // Theme Toggle with system preference and localStorage
-(function() {
-  const iconSpan = document.getElementById("theme-toggle-icon");
-  const toggleBtn = document.getElementById("theme-toggle");
-  if (!toggleBtn) return;
-
-  // Returns "light" or "dark"
-  function getPreferredTheme() {
-    if (localStorage.getItem("theme")) {
-      return localStorage.getItem("theme");
-    }
-    return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-  }
-
-  function setTheme(theme) {
-    document.documentElement.setAttribute("data-theme", theme);
-    localStorage.setItem("theme", theme);
-    iconSpan.textContent = theme === "dark" ? "🌙" : "🌞";
-  }
-
-  // On page load, set the theme
-  setTheme(getPreferredTheme());
-
-  // Toggle on click
-  toggleBtn.addEventListener("click", function() {
-    const currentTheme = getPreferredTheme();
-    const newTheme = currentTheme === "dark" ? "light" : "dark";
-    setTheme(newTheme);
-  });
-
-  // Listen to system preference changes
-  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", e => {
-    if (!localStorage.getItem("theme")) { // Only auto-update if user hasn't set preference
-      setTheme(e.matches ? "dark" : "light");
-    }
-  });
-})();
   };
 
 }(jQuery));
