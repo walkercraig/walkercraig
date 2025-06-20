@@ -128,7 +128,7 @@
 }
 
 .menu-item a {
-  color: $gray-lighter;
+  color: $gray-dark;
   text-decoration: none;
 }
 
@@ -171,5 +171,5 @@ a[href$="/rss/"] svg {
 .social-links a:hover,
 .menu-item a:hover,
 .current-menu-item a {
-  color: $gray-lighter;
+  color: $gray-darkest;
 }
