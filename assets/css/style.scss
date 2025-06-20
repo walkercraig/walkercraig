@@ -37,34 +37,6 @@
   }
 }
 
-/* Light theme (default) */
-:root {
-  --bg: #fff;
-  --text: #1e1e1e;
-  --sidebar-bg: #fff;
-  --sidebar-text: #444;
-  /* Add more variables as needed */
-}
-
-/* Dark theme overrides */
-[data-theme="dark"] {
-  --bg: #1e1e1e;
-  --text: #e1e1e1;
-  --sidebar-bg: #1e1e1e;
-  --sidebar-text: #e1e1e1;
-}
-
-/* Apply variables */
-body {
-  background: var(--bg);
-  color: var(--text);
-  transition: background 0.2s, color 0.2s;
-}
-.sidebar {
-  background: var(--sidebar-bg);
-  color: var(--sidebar-text);
-}
-
 // Imports
 @import "variables";
 @import "reset";
