@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: $gray-lighter;
+  color: #1e73be;
   text-decoration: underline;
   -webkit-transition: background .3s ease, color .3s ease;
   transition: background .3s ease, color .3s ease;
@@ -129,7 +129,7 @@ blockquote {
 }
 
 blockquote:before {
-  color: $color-accent;
+  color: $gray-darkest;
   content: "\201C";
   display: block;
   font-size: 72px;
@@ -229,7 +229,7 @@ input,
 select,
 textarea {
   background: #fff;
-  border: 1px solid $gray-darkest;
+  border: 1px solid $gray-lighter;
   border-radius: 0;
   box-shadow: none;
   box-sizing: border-box;
@@ -295,7 +295,7 @@ input[type="reset"]:focus,
 input[type="reset"]:active,
 a.button:hover,
 a.button:focus {
-  background: $gray-lighter;
+  background: $gray-light;
   outline: 0;
 }
 
