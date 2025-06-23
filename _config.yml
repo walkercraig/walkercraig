@@ -2,7 +2,7 @@
 name: 'Craig Walker'
 description: 
 meta_description: 
-logo: 'craigwalkerlogo.png'
+logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'cwsiteicon.png'
