@@ -5,8 +5,8 @@ meta_description:
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'cwsiteicon.png'
-  greetings: "Hello & Welcome."
+  image: 'beardsketchcrop.png'
+  greetings: "Hello & Welcome"
 favicon: '/favicon.ico'
 baseurl: '/'
 production_url: 'https://walkercraig.github.io/'
