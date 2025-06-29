@@ -24,14 +24,24 @@
                     </a>
                 </p>
                 <div class="site-identity">
-                    {% if site.name %}
+                  {% if site.name %}
+                    {%- assign words = site.name | split: ' ' -%}
                     <h1 class="site-title">
-                        <a href="{{ site.baseurl }}/">{{site.name}}</a>
+                      <a href="{{ site.baseurl }}/">
+                        {%- for w in words -%}
+                          <span class="word">
+                            <span class="big">{{ w | slice: 0, 1 }}</span>
+                            <span class="small">{{ w | slice: 1, 99 }}</span>
+                          </span>
+                          {%- unless forloop.last %}&nbsp;{% endunless -%}
+                        {%- endfor -%}
+                      </a>
                     </h1>
-                    {% endif %}
-                    {% if site.description %}
-                    <p class="site-description">{{site.description}}</p>
-                    {% endif %}
+                  {% endif %}
+
+                  {% if site.description %}
+                    <p class="site-description">{{ site.description }}</p>
+                  {% endif %}
                 </div><!-- .site-identity -->
                 {% endif %}
                 <button id="menu-toggle" class="menu-toggle"><span class="screen-reader-text">Main Menu</span><span
