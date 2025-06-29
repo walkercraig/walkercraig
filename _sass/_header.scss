@@ -47,19 +47,33 @@
 }
 
 .site-title {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 1rem !important;
-  font-weight: 700;
-  line-height: 1;
+  font-family: 'Sorts Mill Goudy', serif !important;
+  font-size: 1.17rem !important;
+  font-weight: 400;
   margin: 1px 0 0 0 !important;
   letter-spacing: 2px !important;
-  text-transform: uppercase;
+  font-variant: small-caps;
   color: #1e1e1e;
 }
 
 .site-title a {
   color: #1e1e1e;
   text-decoration: none;
+  display: inline-block;
+}
+
+.word {
+  display: inline-flex;    /* puts .big and .small on a flex row */
+  align-items: center;     /* vertically centers .small */
+  margin-right: 0.3ch;     /* tweak word spacing */
+}
+
+
+.big   { font-size: 1.1em; }      /* base height (acts like ⬆️ logo cap height) */
+.small {
+  font-size: 0.8em;            /* roughly half height—adjust to taste */
+  line-height: 1;               /* trims leading so it truly centers */
+  text-transform: uppercase;    /* mimics small caps if your font lacks them */
 }
 
 .site-description {
