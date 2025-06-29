@@ -51,7 +51,7 @@
   font-size: 1.17rem !important;
   font-weight: 400;
   margin: 1px 0 0 0 !important;
-  letter-spacing: 2px !important;
+  letter-spacing: 5px !important;
   font-variant: small-caps;
   color: #1e1e1e;
 }
@@ -65,7 +65,6 @@
 .word {
   display: inline-flex;    /* puts .big and .small on a flex row */
   align-items: center;     /* vertically centers .small */
-  margin-right: 0.3ch;     /* tweak word spacing */
 }
 
 
