@@ -57,8 +57,7 @@ The previous paragraphs are a long-winded way of saying this is kinda sorta what
 
 ---
 
-![whoomp.jpg](https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/whoomp.jpg)
-<small>Tag Team, back again...</small>
+![whoomp.jpg](https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/whoomp.jpg "Tag Team, back again...")
 
 ---
 
