@@ -41,7 +41,7 @@ The first fully transmitted message on the ARPAnet, sent on October 29, 1969, fr
 
 ---
 <figure>
-  <img src="https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/luke-2-9-10.png" alt="Luke 2:9-10"/>
+  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQQ-CnBL0aNKSLJvkz9kDjbbAbM-4dEKWVV5gnpr4IUdpnE" alt="Luke 2:9-10"/>
 </figure>
 ---
 
@@ -57,7 +57,7 @@ The previous paragraphs are a long-winded way of saying this is kinda sorta what
 
 ---
 <figure>
-  <img src="https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/whoomp.jpg" alt="Tag Team's Whoomp There It Is"/>
+  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQRpBQxl_s5CQrFdmMnoCuYsAVBEPokQ0QKd6edfsW4PXsw?width=600&height=595" width="600" height="595" alt="Tag Team's Whoomp There It Is"/>
   <figcaption>Tag Team, back again...</figcaption>
 </figure>
 ---
@@ -70,7 +70,7 @@ I understand even the idea of starting something like this, at the minimum, reek
 
 ---
 <figure>
-  <img src="https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/MarkTwain_GodsFool.jpg" alt="Mark Twain quote about being God's Fool."/>
+  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQSojhTn1kOfR7tlpJoD8yRbARhuKQRGFYCH0yvWkhYNzsU?width=1024&height=320" width="1024" height="320" alt="Mark Twain quote about being God's Fool."/>
 </figure>
 ---
 
@@ -177,7 +177,7 @@ If I’m being entirely honest, the truth is, I felt that I should make you awar
 
 ---
 <figure>
-  <img src="https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/braveheartpickafight.gif" alt="Scene from Braveheart"/>
+  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQREb-ERCuUwQL9tOe1vwD0cASdMUy7m0WBrk0UzYOPtRiQ" alt="Scene from Braveheart"/>
 </figure>
 ---
 
