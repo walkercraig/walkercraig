@@ -30,7 +30,7 @@ This initial work on proto-email was primarily done at the Massachusetts Institu
 
 ---
 <figure>
-  <img src="https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/NASA%20Ames%20Research%20Center,%20IBM%207090,%20in%201961.jpg" alt="NASA Ames Research Center, IBM 7090, in 1961."/>
+  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/UQQhey-m2AcLIICAM1YIAAAAAOV4paHxruzafkY?width=1268&height=799" width="1268" height="799" alt="NASA Ames Research Center, IBM 7090, in 1961."/>
   <figcaption>NASA Ames Research Center, IBM 7090, in 1961.</figcaption>
 </figure>
 ---
