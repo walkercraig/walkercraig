@@ -8,13 +8,7 @@
     <meta name="lightning" content="craigwalker@getalby.com" />
     <link rel="me" href="https://chicago.us.org/@craig">
 
-    {% if site.plugins_dir contains 'jekyll-seo-tag' %}
-        {% include head-seo.html %}
-    {% else %}
-        <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}</title>
-        <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-        <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
-    {% endif %}
+    {% include head-seo.html %}
 
     <!-- Site Favicon -->
     <link rel="shortcut icon" href="{{ site.url }}/{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
