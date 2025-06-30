@@ -29,15 +29,9 @@ At first, when a user logged in to edit a mailbox, they were unable to delete an
 This initial work on proto-email was primarily done at the Massachusetts Institute of Technology and made reality based on a modified version of the IBM 7090.
 
 ---
-{% include image-caption.html imageurl="/assets/images/posts/2018/ibm7090nasa.jpg" title="NASA Ames Research Center" caption="NASA Ames Research Center, IBM 7090, in 1961." %}
----
-
-<img src="https://1drv.ms/i/c/800b07d8a62f7b21/UQQhey-m2AcLIICAM1YIAAAAAOV4paHxruzafkY?width=1268&height=799" width="1268" height="799" />
-
-https://1drv.ms/i/c/800b07d8a62f7b21/UQQhey-m2AcLIICAM1YIAAAAAOV4paHxruzafkY?width=1268&height=799
-
 ![NASA-Ames-Research-Center-IBM-7090-in-1961.jpg](https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/NASA%20Ames%20Research%20Center,%20IBM%207090,%20in%201961.jpg)
 <small>NASA Ames Research Center, IBM 7090, in 1961.</small>
+---
 
 The greater challenge came in getting all of the separate central disks to “talk” to each other. While the idea had been around for quite a while, no computer network existed until the ARPAnet, a communications breakthrough brought forth from funding through the United States Department of Defense’s Advanced Research Projects Agency (DARPA). In 1966, a man named Bob Taylor convinced then DARPA Director, Charles M. Herzfeld, to transfer a million dollars from a ballistic missile defense project to fund his network project. By 1969, the ARPAnet became the first true version of the technology we now know as the Internet.
 
