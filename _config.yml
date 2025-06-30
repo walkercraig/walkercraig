@@ -1,4 +1,7 @@
 # Site settings
+url: "https://www.walkercraig.com"
+baseurl: ''
+production_url: 'https://walkercraig.github.io/'
 name: 'Craig Walker'
 description: 
 meta_description: 
@@ -8,8 +11,6 @@ author:
   image: 'cwprofilecrop.png'
   greetings: "Hello & Welcome"
 favicon: '/favicon.ico'
-baseurl: '/'
-production_url: 'https://walkercraig.github.io/'
 disqus: 
 mailchimp_url: '//walkercraig.us11.list-manage.com/subscribe/post?u=b845f7d1807ad41b6c0437990&amp;id=7bd2f97cd8'
 # Add your GA Tracking Id
@@ -53,10 +54,11 @@ navigation:
     url: /search
 
 # Required Plugins
-plugins_dir:
+plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Pagination
 paginate: 7
