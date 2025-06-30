@@ -40,7 +40,9 @@ The greater challenge came in getting all of the separate central disks to “ta
 The first fully transmitted message on the ARPAnet, sent on October 29, 1969, from a UCLA student programmer to Stanford, was “login”. But that was the second attempt. In a perhaps prophetic and poetic moment that would make any man pause, look up, and wonder, on the first attempt an hour earlier only the first two letters, the “l” and the “o”, made it before the system crashed. So the first message transmitted through this life-altering technology was accidentally the word “lo”, a now archaic imperative meaning “Look!” “See!” “Behold!” and traditionally used to call attention or to express wonder or surprise. Try not to shiver.
 
 ---
-{% include image-caption.html imageurl="/assets/images/posts/2018/luke-2-9-10.png" title="Luke 2:9-10" %}
+
+![luke-2-9-10.png](https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/luke-2-9-10.png)
+
 ---
 
 **Let’s fast forward…**
@@ -54,7 +56,10 @@ By 1973, the ARPAnet included 40 university and government hosts, and email acco
 The previous paragraphs are a long-winded way of saying this is kinda sorta what I’m going to try to do, albeit a few decades late. Not necessarily build a career, per se, but maybe something, someday, will come of it? In the immortal words of Stephen Gibson and Cecil Glen, the Atlanta duo once known as Tag Team, “I’m takin’ it back to the old school, ’cause I’m an old fool, who’s so cool…”
 
 ---
-{% include image-caption.html imageurl="/assets/images/posts/2018/whoomp.jpg" title="Tag Team - Whoomp, There It Is" caption="Tag Team. Back Again." %}
+
+![whoomp.jpg](https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/whoomp.jpg)
+<small>Tag Team, back again...</small>
+
 ---
 
 You’re welcome to call this what you wish. A newsletter? A blog? A shameful display of narcissism? I don’t mind. However you ultimately choose to describe it, I see it as a general space to muse and offer an individual perspective on current events and issues I want to talk about. Be it in arts and culture, business, lifestyle, politics, science and technology, sports, and/or anything and everything in between.
@@ -64,7 +69,9 @@ You’re welcome to call this what you wish. A newsletter? A blog? A shameful di
 I understand even the idea of starting something like this, at the minimum, reeks of pretension and, at worst, will serve as “Exhibit A” in my eternal judgment. For who am I to suggest that my perspective or insight into an issue is better than any other? I assure you I’m not trying to insinuate a greater awareness or higher understanding. I’m no genius. In fact, I know there are many out there who would likely tell you I’m not particularly smart.
 
 ---
-{% include image-caption.html imageurl="/assets/images/posts/2018/MarkTwain_GodsFool.jpg" title="God's Fool" %}
+
+![MarkTwain_GodsFool.jpg](https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/MarkTwain_GodsFool.jpg)
+
 ---
 
 All I’m trying to offer is a view. A view for you to consider and a view you’re welcome to take and use as a talking point when you go out into the world and step into the ring of debate. Another tool in your talk toolbox. Another weapon in your argument arsenal.
@@ -169,7 +176,9 @@ Last chance.
 If I’m being entirely honest, the truth is, I felt that I should make you aware, I'm goin' to pick a fight.
 
 ---
-{% include image-caption.html imageurl="/assets/images/posts/2018/braveheartpickafight.gif" title="I'm goin' to pick a fight..." %}
+
+![braveheartpickafight.gif](https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Craig%20Walker/Posts/Images/braveheartpickafight.gif)
+
 ---
 
 <br/>
