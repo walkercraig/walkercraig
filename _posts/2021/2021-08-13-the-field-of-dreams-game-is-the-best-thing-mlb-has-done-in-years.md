@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: The Field of Dreams Game is the Best Thing MLB has Done in Years
 ---
 
