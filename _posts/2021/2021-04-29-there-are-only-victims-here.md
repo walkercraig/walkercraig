@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: There Are Only Victims Here
 ---
 
