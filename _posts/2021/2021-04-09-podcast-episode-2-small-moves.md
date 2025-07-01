@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Listen ]
+tag: [ Podcast ]
 title: Craig Walker Show. Episode 2. Small Moves.
 ---
 
