@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: "The Off-Putting Atheism of Tribune Columnist Eric Zorn"
 ---
 
