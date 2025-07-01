@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: It’s Not the McCaskey Family Chicago Officials Have to Worry About
 ---
 
