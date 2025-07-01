@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: List of health problems 57th District Rep. Jonathan Carroll must personally pay for
 ---
 
