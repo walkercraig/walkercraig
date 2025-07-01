@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary, Podcast ]
 title: The Summer of Life
 ---
 
