@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: "A Brief History of Columbus in Chicago"
 ---
 
