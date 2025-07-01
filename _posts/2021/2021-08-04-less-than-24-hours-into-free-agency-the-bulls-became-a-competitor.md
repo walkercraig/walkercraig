@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: Less than 24 Hours into Free Agency, the Bulls Became a Competitor
 ---
 
