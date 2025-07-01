@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: Ken Griffin's Citadel Bets Big on Goliath as David Grabs his Sling
 ---
 
