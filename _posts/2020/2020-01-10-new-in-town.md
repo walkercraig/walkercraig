@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: "New in Town? The Names May Change but How Things Work Don’t, Bub."
 ---
 
