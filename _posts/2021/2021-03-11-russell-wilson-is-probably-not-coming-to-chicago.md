@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: Russell Wilson Is Probably Not Coming to Chicago but We Found the QB That Should
 ---
 
