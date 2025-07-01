@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: In the wake of sex abuse scandal, CPS prioritizes open restrooms
 ---
 
