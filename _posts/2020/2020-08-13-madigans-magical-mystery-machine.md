@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary, Podcast ]
 title: Madigan's Magical Mystery Machine
 ---
 
