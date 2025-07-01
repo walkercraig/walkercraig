@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: For the Love of God, Vote NO on the Illinois "Fair" Tax Amendment
 ---
 
