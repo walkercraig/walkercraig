@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: "In Case You Missed It: WGN Chicago Mayoral Forum"
 ---
 
