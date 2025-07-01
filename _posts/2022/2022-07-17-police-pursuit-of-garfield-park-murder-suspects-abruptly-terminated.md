@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: Police pursuit of Garfield Park murder suspects abruptly terminated
 ---
 
