@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: Did Mayor Lightfoot and Superintendent Brown's public comments about Keegan Casteel go too far?
 ---
 
