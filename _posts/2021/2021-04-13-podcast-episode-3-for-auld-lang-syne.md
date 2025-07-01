@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Listen ]
+tag: [ Podcast ]
 title: Craig Walker Show. Episode 3. For Auld Lang Syne.
 ---
 
