@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: Streaming now “JUSSTICE” Season 2, Return to MAGA Country
 ---
 
