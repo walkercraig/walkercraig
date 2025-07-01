@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Listen ]
+tag: [ Podcast ]
 title: Craig Walker Show. Episode 1. In the Beginning...
 ---
 
