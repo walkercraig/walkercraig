@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Listen ]
+tag: [ Podcast ]
 title: Chicago Journal Podcast. Madigan's Magical Mystery Machine.
 ---
 
