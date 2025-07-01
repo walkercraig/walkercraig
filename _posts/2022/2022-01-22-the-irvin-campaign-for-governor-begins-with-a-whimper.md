@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: The Irvin campaign for Governor begins with a whimper
 ---
 
