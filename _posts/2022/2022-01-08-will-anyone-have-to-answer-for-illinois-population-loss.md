@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: Will anyone have to answer for Illinois' population loss?
 ---
 
