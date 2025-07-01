@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: It's Long Passed Time to Shrink Chicago's City Council
 ---
 
