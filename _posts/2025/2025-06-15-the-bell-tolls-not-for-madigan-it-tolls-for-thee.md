@@ -1,7 +1,7 @@
 ---
 layout: post
 image: /assets/images/posts/2025/madiganbelltolls.png
-tag: [ Read ]
+tag: [ Commentary ]
 title: The Bell Tolls Not for Madigan, but for Thee
 excerpt: The sound of a once-mighty machine is replaced by a resounding crack of a gavel, the final note in a symphony of corruption, patronage, and unchecked power that spanned more than half a century.
 ---
