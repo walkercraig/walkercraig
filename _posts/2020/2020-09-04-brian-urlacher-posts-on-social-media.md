@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: Brian Urlacher Posts on Social Media and the Wide World of Sports Pulls Out Their Hair
 ---
 
