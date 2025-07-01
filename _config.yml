@@ -38,12 +38,8 @@ navigation:
     url: /tags/index.html#Poems
   - text: Songs
     url: /tags/index.html#Songs
-  - text: Read
-    url: /tags/index.html#Read
-  - text: Watch
-    url: /tags/index.html#Watch
-  - text: Listen
-    url: /tags/index.html#Listen
+  - text: Commentary
+    url: /tags/index.html#Commentary
   - text: Photos
     url: https://www.instagram.com/wlkrcrg
   - text: Organizations
