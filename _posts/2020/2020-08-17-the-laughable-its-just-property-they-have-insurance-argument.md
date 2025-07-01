@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: The Laughable "It's Just Property...They Have Insurance" Argument
 ---
 
