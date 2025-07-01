@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: Is J.B. Pritzker Unfit to Lead the State of Illinois?
 ---
 
