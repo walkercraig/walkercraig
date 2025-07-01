@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: The amendment to SB1169 is an immoral power grab using COVID as convenient excuse
 ---
 
