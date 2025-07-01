@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: [ Read ]
+tag: [ Commentary ]
 title: Dan Bernstein and "The One That Got Away"
 ---
 
