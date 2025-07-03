@@ -114,6 +114,16 @@ figure {
   }
 }
 
+/* assets/css/_footnotes.scss */
+.littlefoot--popover {
+  @apply text-sm leading-snug rounded-md shadow-lg bg-white;
+}
+
+.littlefoot__button {
+  @apply text-blue-600 hover:text-blue-800 hover:underline;
+  font-size: .75rem;     /* closer to Ghost’s smaller superscripts */
+}
+
 .comments-area,
 .read-next,
 .tagcloud,
