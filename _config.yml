@@ -65,6 +65,9 @@ permalink: /:title
 
 # Other
 markdown: kramdown
+kramdown:
+  input: GFM          # lets you keep GitHub-style tables & fences
+  footnote_nr: 1      # optional – first number in the series
 
 # Sass
 sass:
