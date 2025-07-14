@@ -63,7 +63,7 @@ paginate: 7
 paginate_path: /page:num/
 
 # Permalinks
-permalink: /:title
+permalink: /:title/
 
 # Other
 markdown: kramdown
