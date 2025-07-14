@@ -72,13 +72,6 @@ If I can toot my own horn for a brief moment, [one of my favorite things I wrote
 
 ---
 
-<br>
-<figure class="kg-card kg-card-image">
-    <img src="https://i.imgur.com/1RL9dTN.png" class="kg-image">
-    </a>
-</figure>
-<br>
-
 >This used to be a tough town. This used to be a city of broad shoulders. This used to be a city that works. This city used to be untouchable.
 
 >Does it resemble that these days?
@@ -88,13 +81,6 @@ If I can toot my own horn for a brief moment, [one of my favorite things I wrote
 >Victim. Victim. Victim.
 
 >There are only victims here. And they expect the children to stop killing each other when they have no one willing to stand up and behave like the adults they're supposed to be?
-
-<br>
-<figure class="kg-card kg-card-image">
-    <img src="https://i.imgur.com/rpFS9mE.png" class="kg-image">
-    </a>
-</figure>
-<br>
 
 ---
 
