@@ -46,6 +46,8 @@ navigation:
     url: /organizations
   - text: Contact
     url: /contact
+  - text: Support
+    url: https://donate.stripe.com/cNi14ocTk4je8p4gwF38403
   - text: Search
     url: /search
 
