@@ -6,7 +6,7 @@ title: Respect for the Game
 excerpt: Ryne Sandberg understood that when a kid looks up at you with wide-eyed admiration, you don’t make a fool out of them. A tribute to the Cubs legend who respected the game, and us, too much to let us down.
 ---
 
-The sound of a once-mighty machine is replaced by a resounding crack of a gavel, the final note in a symphony of corruption, patronage, and unchecked power that spanned more than half a century.
+Ryne Sandberg understood that when a kid looks up at you with wide-eyed admiration, you don’t make a fool out of them. A tribute to the Cubs legend who respected the game, and us, too much to let us down.
 
 ---
 
