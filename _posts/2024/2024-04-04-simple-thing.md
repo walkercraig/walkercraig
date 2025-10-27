@@ -14,7 +14,7 @@ And around for the unseen\
 And makes being feel like a dream\
 <br/>
 I didn’t understand it\
-Until I felt your hand in mine\
+Until I felt your lips on mine\
 And it felt like someone planned it\
 From before the dawn of time\
 And if I could command it\
