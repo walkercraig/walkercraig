@@ -4,6 +4,8 @@ tag: [ Songs ]
 title: Simple Thing
 ---
 <br/>
+Chords: Am   C    F   C   G
+<br/>
 It’s a simple kind of thing\
 That makes me want to sing\
 Like how the feel of a single kiss\
