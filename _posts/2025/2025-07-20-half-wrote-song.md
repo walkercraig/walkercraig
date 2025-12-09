@@ -41,7 +41,7 @@ Felt too many fires turn to ash and cold,\
 But I still got some stories left untold.
 
 [Chorus]\
-Oh, I’m still singin’, still believin’ in a half-wrote song,
+Oh, I’m still singin’, still believin’ in a half-wrote song,\
 Tryin’ to find the feelin' that can right all of the wrongs.\
 Though things keep changin’, oh I keep rollin’ on,\
 Oh, I’m still singin’, still believin’ in a half-wrote song. 
