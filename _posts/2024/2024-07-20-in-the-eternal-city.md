@@ -52,4 +52,4 @@ And we’ll dance through the night to the songs in our souls\
 So here's to the nights in the places we roam\
 And here’s to the cities that we call home\
 With a song in our hearts, I’ll greet you on the street\
-Of the eternal city, where all souls meet\
+Of the eternal city, where all souls meet
