@@ -1,3 +1,11 @@
+---
+layout: post
+tag: [ Poems ]
+title: Toast 6
+---
+
+<br/>
+
 [Verse Chords: C  F  C  F  C  Am  G  F  G  C]
 
 [Verse 1] 
