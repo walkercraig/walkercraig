@@ -48,7 +48,7 @@ A stomp in our feet and a clap in our hands.\
 The roof might shake, and the walls fall down,\
 Let it out, let it out, let it shake the ground.
 
-[Final Chorus (big and blown out)]
+[Final Chorus (big and blown out)]\
 Ain’t got nothin’, but I'm still free,\
 In every heart is a song that beats.\
 Raise your hands, let the spirit breathe,\
