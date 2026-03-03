@@ -6,6 +6,16 @@ title: The Author is Dead. Long Live the Author.
 excerpt: A culture that cannot remember where ideas came from cannot evaluate where ideas should go.
 ---
 
+<figure>
+  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQRMrZICexm6S7FdhmDrmjXVATLDs8CiB5dwPBkSWkXXdOM?width=1376&height=768" width="1376" height="768" alt="The Ships of Tomorrow at the Shore."/>
+  <figcaption>"Imagine the amazing good fortune of the generation that gets to see the end of the world..."</figcaption>
+</figure>
+---
+
+<i>A culture that cannot remember where ideas came from cannot evaluate where ideas should go.</i>
+
+---
+
 In this letter, Craig talks about Gutenberg and the end of an era. He talks about monks and their handwriting and how much a book used to cost. He gets into Thomas Jefferson and Benjamin Franklin and what they thought about ideas and who owns them, and discovers that the candle metaphor is older than he thought. He talks about copyright and how it went from 14 years to basically forever. He talks about Walter Benjamin and aura and Jean Baudrillard and simulation and Roland Barthes and the death of the author and Michel Foucault and what an author's name actually does. He argues with the French. He gets into the Greeks and their playwriting competitions and why individual authorship matters even when the mythologists tell you it doesn't. He eventually gets around to AI and why it's different from everything that came before. He talks about Herbert Simon and attention and something called the Gettier problem. He makes his case for why Challenge Media exists and what it's for. He rambles, as usual.
 
 ---
