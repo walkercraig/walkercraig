@@ -54,7 +54,7 @@ Three years ago, I began as follows:
 >
 >I am 34 years old. The September 11 attacks are half my life away.
 
-So, hello to my friends born in 1981. The attack on September 11, 2001 is now officially half your life away from where you are now.
+So, hello to my friends born in 1981. The attack on September 11, 2001, is now officially half your life away from where you are now.
 
 Sorry to be the one to bring that up. Time flies when you're having fun, amirite?
 
@@ -190,7 +190,7 @@ It was Mickey, by the way. He was our starting goalie and had the strongest leg 
 
 As we prepared to play our rivals and figure out our plans for the weekend, so, too, prepared the war machine.
 
-## October, 2001 and the Patriot Act
+## October, 2001, and the Patriot Act
 
 **To be continued...**
 
