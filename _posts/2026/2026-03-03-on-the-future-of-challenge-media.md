@@ -32,6 +32,6 @@ We don't promise infallibility. We promise traceability.
 
 In the age of infinite text, the scarce resources are not documents. They are demonstrated judgment, consistency over time, and the courage to sign your claims.
 
-I've written the longer version of this argument as a letter called **["The Author is Dead. Long Live the Author."](/the-author-is-dead-long-live-the-author/)**. It covers the full history: from the medieval scriptoria to Jefferson and Franklin, through Walter Benjamin and Baudrillard, into the poststructuralists and their limits, and lands on why I think attribution is the epistemological principle that holds the whole thing together. If you have the time, I'd be grateful if you read it.
+I've written the longer version of this argument as a letter called **["The Author is Dead. Long Live the Author."](/the-author-is-dead-long-live-the-author/)**. It covers medieval scriptoria to Jefferson and Franklin, through Walter Benjamin and Baudrillard, into the poststructuralists and their limits, and lands on why I think attribution is the epistemological principle that holds the whole thing together. Give it a read if you have the time, and feel free to start a conversation with me.
 
 The work is open. The standards are high. The name matters.
