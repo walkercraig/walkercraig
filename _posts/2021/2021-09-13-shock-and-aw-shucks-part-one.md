@@ -52,7 +52,7 @@ Three years ago, I began as follows:
 
 >At a glance, the 17th anniversary of the September 11 attacks may not seem as significant as the others. The number 17 is not the most aesthetic number for an anniversary and doesn't have the particular sort of "je ne sais quoi" found on a more traditional milestone like a 10th or a 20th or a 25th. In truth, I wasn't particularly interested in the 17th anniversary either, until I realized, yesterday, while sitting on the couch, flipping through channels and watching the various retrospectives about that fated Tuesday, just how much it meant to my personal life.
 >
->I am 34 years old. The September 11 attacks are half my life away. To my friends born in '83, it will come to you next year, and so on.
+>I am 34 years old. The September 11 attacks are half my life away.
 
 So, hello to my friends born in 1981. The attack on September 11, 2001 is now officially half your life away from where you are now.
 
