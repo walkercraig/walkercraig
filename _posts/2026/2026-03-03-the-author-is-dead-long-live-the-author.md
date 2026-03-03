@@ -7,7 +7,7 @@ excerpt: A culture that cannot remember where ideas came from cannot evaluate wh
 ---
 
 <figure>
-  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQRMrZICexm6S7FdhmDrmjXVATLDs8CiB5dwPBkSWkXXdOM?width=1376&height=768" width="1376" height="768" alt="The Ships of Tomorrow at the Shore."/>
+  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQBpWmrpo3TSSodM5QoRUerrAfIGCucK6U1XjWuvUn0u98w?e=3oFy7H" width="1376" height="768" alt="Baudrillard's candles."/>
   <figcaption>"Imagine the amazing good fortune of the generation that gets to see the end of the world..."</figcaption>
 </figure>
 ---
