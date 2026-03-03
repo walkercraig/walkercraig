@@ -24,7 +24,7 @@ Perhaps we'd all be better off if we took a step back and just focused on making
 
 Nah. Who am I kiddin'? It's never that simple and we're not putting that genie back in that bottle. Pandora burned the box.
 
-I respect your time and willingness to read this little website so I'll spare you the length and tell you, up front, that I believe the events of September 11, 2001 set in motion a sequence of decisions that lead the American experiment down a path it never should have gone. A path the ghosts of history warned us about that, if we were wiser and more patient, we may have heeded. And, I suspect, deep down, our collective consciousness knows it. And, if we are to grow, just as we look back on the behavior of our younger selves, we need to learn to honestly assess our mistakes and, more importantly, learn to live with our regrets.
+I respect your time and willingness to read this little website so I'll spare you the length and tell you, up front, that I believe the events of September 11, 2001, set in motion a sequence of decisions that lead the American experiment down a path it never should have gone. A path the ghosts of history warned us about that, if we were wiser and more patient, we may have heeded. And, I suspect, deep down, our collective consciousness knows it. And, if we are to grow, just as we look back on the behavior of our younger selves, we need to learn to honestly assess our mistakes and, more importantly, learn to live with our regrets.
 
 I admit, that's easy to say in retrospect, but it's a long and difficult but necessary conversation to reach that conclusion and have a better understanding how we got here, twenty years later.
 
