@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/posts/2026/baudrillardscandles.png
 tag: [ Letters ]
 title: The Author is dead. Long live the Author.
 excerpt: A culture that cannot remember where ideas came from cannot evaluate where ideas should go.
