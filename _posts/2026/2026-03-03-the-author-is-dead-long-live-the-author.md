@@ -96,7 +96,7 @@ Attribution is Jefferson's candle in practice. The light spreads freely. But you
 
 ## Now Here's Where It Gets Weird
 
-As always, I've spent a lot of this letter on history and I know some of you are wondering when I'm going to get to the point. Fair enough. But I needed to establish the backdrop because the thing I want to talk about next only makes sense if you understand what came before it.
+As always, I've spent a lot of this letter on history and I know some of you are wondering when I'm going to get to the point. Fair enough. But I always prefer to establish the backdrop because the thing I want to talk about next only makes sense if you understand what came before it.
 
 Walter Benjamin, writing in 1936, observed something about mechanical reproduction that I think applies to what we're living through, even though he couldn't have imagined the specifics. His famous essay on the work of art argues that even the most perfect reproduction lacks the original's "presence in time and space," its singular existence at a particular place and along a particular history. He calls this quality "aura." Aura, in his compressed formulation, is "the unique phenomenon of a distance, however close it may be."
 
