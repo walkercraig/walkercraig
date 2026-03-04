@@ -90,7 +90,7 @@ A claim that can't be traced back to a responsible person can't be interrogated 
 
 Institutional practice already encodes this, even where nobody frames it as philosophy. In scientific publishing, authorship is structured less as the capitalized Romantic Genius and more as accountability. The International Committee of Medical Journal Editors defines authorship partly by a willingness to be publicly accountable for all aspects of the work, including investigation and resolution of questions about accuracy or integrity. That definition doesn't describe an owner. It describes a responsible signer. Someone who will answer the phone when the questions come.
 
-Attribution is Jefferson's candle in practice. The light spreads freely. But you can still see where the flame was lit.
+Attribution is Jefferson's candle in practice. The light spreads freely. But you can still see the person who lit your flame.
 
 ---
 
