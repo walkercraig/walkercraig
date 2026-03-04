@@ -188,21 +188,19 @@ This is why major publishers and research journals insist that AI tools cannot b
 
 ---
 
-## What I'm For
+## So Now What?
 
 I've spent most of this letter explaining a problem. Let me try to say something about what I think the answer looks like, or at least what I intend to do about it in my own small corner.
 
 I'm not going to pretend this is entirely original. It's an argument, like most arguments, built from pieces of what I've read and thought and experienced. Ennius reached for the candle metaphor before Cicero did, and Cicero reached for it before Jefferson did, and I'm reaching for it now. That's how ideas work. But I'll sign it and that's the point.
 
-Here's what I believe.
+Ideas spread by being shared. Passed from mind to mind. They always have. Jefferson saw this as the natural condition of ideas in 1813. Franklin practiced it with his inventions. The Gutenberg Era built an elaborate scaffolding of limited monopolies around the physical vessels that carried ideas, and that scaffolding served its purpose for five centuries. Now it's done.
 
-I believe copying is no longer the exception. It is the baseline condition of writing. Jefferson saw this as the natural condition of ideas in 1813. Franklin practiced it with his inventions. The Gutenberg Era built an elaborate scaffolding of limited monopolies around the physical vessels that carried ideas, and that scaffolding served its purpose for five centuries. Now it's done.
+With artificial intelligence, language can now be produced at industrial scale without belief, without intention, and without a human agent who can be questioned, corrected, or held to account. This is not just a faster version of what came before. It is Baudrillard's precession of simulacra made operational: the model precedes the territory, the simulation precedes the real, and text circulates with the authority of authorship while having none of its substance.
 
-With artificial intelligence, language can be produced at industrial scale without belief, without intention, and without a human agent who can be questioned, corrected, or held to account. This is not just a faster version of what came before. It is Baudrillard's precession of simulacra made operational: the model precedes the territory, the simulation precedes the real, and text circulates with the authority of authorship while having none of its substance.
+Under these conditions, the central problem of publishing is no longer distribution. It is credibility.
 
-I believe, under these conditions, the central problem of publishing is no longer distribution. It is credibility.
-
-A reader cannot evaluate a claim in the abstract. A claim is always made by someone, from somewhere, for reasons that may be honest or corrupt, careful or careless. When that "someone" disappears, the reader is not liberated. The reader is disarmed. Attribution is not a legal strategy. It is an epistemological principle.
+A reader cannot evaluate a claim in the abstract. A claim is always made by someone, from somewhere, for reasons that may be honest or corrupt, careful or careless. When that “someone” disappears, the reader is not liberated. The reader is disarmed. Attribution is not a legal strategy. It is an epistemological principle.
 
 I don't romanticize authorship. I don't resurrect the solitary genius. I don't pretend that meaning belongs to the writer. Barthes and Foucault were right that the Author-God needed dethroning. But the Greeks were also right that the individual voice, the named playwright competing in the arena and taking responsibility for the work, does essential cultural and epistemic work that no collective, no anonymous tradition, and certainly no statistical model can replace.
 
@@ -210,17 +208,15 @@ I refuse the conclusion that authorship is dispensable.
 
 The poststructuralist dissolution of the author was a critique inside a world where texts were still mostly produced by persons who could be confronted. Generative AI turns that critique into an operating system: text without a speaker, style without a stance, argument without risk. What was once theory is now infrastructure. That is the difference between the author's death as metaphor and the author's death as supply chain.
 
-This is what Challenge Media is for. Not to lock files. Not to litigate. Not to build a fence around ideas that, as Jefferson and Cicero and Ennius before them reminded us, want to be free by their very nature.
+So here is what I intend to do about it, in my own small corner.
 
-Challenge Media exists to make authors legible.
+Everything I publish will be designed to circulate. Quotation, republication, translation, and remix are not threats. They are the ordinary life of ideas. Jefferson and Cicero and Ennius before them were right about that. But my work will carry its origin honestly, because intellectual lineage is part of the content. A culture that cannot remember where ideas came from cannot evaluate where ideas should go.
 
-Everything we publish will be designed to circulate. Quotation, republication, translation, and remix are not threats. They are the ordinary life of ideas. But our work will carry its origin honestly, because intellectual lineage is part of the content. A culture that cannot remember where ideas came from cannot evaluate where ideas should go.
+Every piece will carry my name, and I will take responsibility for what is said. I will keep a durable record of revision, so correction does not require erasure. I will disclose my tools, so readers can distinguish between my judgment and automated assistance. I will correct myself when I'm wrong, because being wrong should not become an unaccountable aesthetic. And I will hold myself to an editorial standard that treats clarity, evidence, and intellectual honesty as non-negotiable.
 
-Every publication will carry a named author who takes responsibility for what is said. A durable record of revision, so correction does not require erasure. A disclosure norm for tools, so readers can distinguish between human judgment and automated assistance. A correction discipline, so being wrong does not become an unaccountable aesthetic. And an editorial standard that treats clarity, evidence, and intellectual honesty as non-negotiable.
+I don't promise infallibility. I promise traceability.
 
-We don't promise infallibility. We promise traceability.
-
-We will not tell readers to trust text because it is fluent. We will ask readers to trust only what can be attributed, contested, and corrected.
+I will not ask readers to trust text because it is fluent. I will ask readers to trust only what can be attributed, contested, and corrected.
 
 In the age of infinite text, the scarce resources are not documents. They are demonstrated judgment, consistency over time, and the courage to sign your claims.
 
