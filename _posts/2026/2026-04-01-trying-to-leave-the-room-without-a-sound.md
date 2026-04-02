@@ -32,8 +32,6 @@ And they are terrified.
 
 These are not contradictions.
 
-The name they voiced was the second. One day that voice will be gone and your name will become just a name. You will hear it in your own memory and the frequency will be wrong. You will not be able to correct it. No recording ever captures what a parent's voice sounds like when they are saying your name not to get your attention but to confirm that you are real, that you are here, that the whole thing was worth it.
-
 I’ll tell you a secret.
 
 There is a way your parents say your name that no one else ever has.
