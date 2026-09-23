@@ -1,32 +1,58 @@
-// iA Writer Quattro by Information Architects. See assets/fonts/ia-writer-quattro/LICENSE.md.
-@font-face {
-  font-family: 'iA Writer Quattro';
-  src: url('../fonts/ia-writer-quattro/iAWriterQuattroS-Regular.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
+// No Quattro CSS or font downloads unless the body-font setting is enabled.
+@if $use-quattro-body {
+  // iA Writer Quattro by Information Architects. See assets/fonts/ia-writer-quattro/LICENSE.md.
+  @font-face {
+    font-family: 'iA Writer Quattro';
+    src: url('../fonts/ia-writer-quattro/iAWriterQuattroS-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
 
-@font-face {
-  font-family: 'iA Writer Quattro';
-  src: url('../fonts/ia-writer-quattro/iAWriterQuattroS-Italic.woff2') format('woff2');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
+  @font-face {
+    font-family: 'iA Writer Quattro';
+    src: url('../fonts/ia-writer-quattro/iAWriterQuattroS-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+  }
 
-@font-face {
-  font-family: 'iA Writer Quattro';
-  src: url('../fonts/ia-writer-quattro/iAWriterQuattroS-Bold.woff2') format('woff2');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
+  @font-face {
+    font-family: 'iA Writer Quattro';
+    src: url('../fonts/ia-writer-quattro/iAWriterQuattroS-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
 
-@font-face {
-  font-family: 'iA Writer Quattro';
-  src: url('../fonts/ia-writer-quattro/iAWriterQuattroS-BoldItalic.woff2') format('woff2');
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
+  @font-face {
+    font-family: 'iA Writer Quattro';
+    src: url('../fonts/ia-writer-quattro/iAWriterQuattroS-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+  }
+
+
+  // Reading text only. Existing heading, quotation, and code styles still apply.
+  .hero,
+  .post-full,
+  .post-content,
+  .post-feed .post-content,
+  .newsletter-box {
+    font-family: 'iA Writer Quattro', $font-primary;
+  }
+
+  // Keep surrounding interface text and controls in the existing font.
+  .post-header,
+  .post-footer,
+  .caption-text,
+  figcaption,
+  form,
+  button,
+  input,
+  select,
+  textarea {
+    font-family: $font-secondary;
+  }
 }

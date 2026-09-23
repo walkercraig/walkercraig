@@ -4,9 +4,13 @@
   --logo-ratio: 0.75;
 }
 
+// Optional body font: change false to true to enable Quattro.
+// Headings, navigation, and the site name keep their current fonts.
+$use-quattro-body: false;
+
 // Fonts
-$font-primary: 'iA Writer Quattro', 'Source Sans Pro', sans-serif;
-$font-secondary: 'iA Writer Quattro', 'Source Sans Pro', sans-serif;
+$font-primary: 'Source Sans Pro', sans-serif;
+$font-secondary: 'Source Sans Pro', sans-serif;
 
 // Colors
 $color-accent: #1e1e1e;
